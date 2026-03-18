@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dafitech Grade 12 Exams & Remedial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <!-- MathJax for mathematical expressions -->
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          processEscapes: true,
+          processEnvironments: true
+        },
+        options: {
+          skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+        }
+      };
+    </script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="app-header">
+        <div class="brand">
+          <span class="brand-title">Dafitech</span>
+          <span class="brand-subtitle">Grade 12 Entrance & Remedial Exams with Solutions</span>
+        </div>
+        <nav class="nav-links">
+          <button class="nav-link active" data-view="home">Home</button>
+          <div class="nav-dropdown">
+            <button class="nav-link" data-view="exam">Exams</button>
+            <div class="dropdown-menu">
+              <button class="dropdown-item" data-view="exam" data-exam-type="entrance">Entrance Exams</button>
+              <button class="dropdown-item" data-view="exam" data-exam-type="remedial">Remedial Exams</button>
+            </div>
+          </div>
+          <button class="nav-link" data-view="about">About</button>
+          <button class="nav-link" data-view="contact">Contact</button>
+        </nav>
+      </header>
+
+      <main class="app-main">
+        <!-- Home View -->
+        <section id="view-home" class="view active">
+          <div class="hero">
+            <h1>Grade 12 Entrance & Remedial Exams</h1>
+            <p>
+              Practice previous Ethiopian Grade 12 national entrance and remedial exams,
+              review detailed solutions, and track your understanding by subject.
+            </p>
+            <div class="dafitech-banner">
+              <div class="dafitech-mark" aria-hidden="true">D</div>
+              <div class="dafitech-banner-text">
+                Designed by <a class="dafitech-link" href="https://dafitech.org" target="_blank" rel="noreferrer">Dafitech</a>
+                <span class="dafitech-sep">•</span>
+                International learning support
+              </div>
+            </div>
+            <div class="hero-actions">
+              <button class="primary" data-view-switch="exam">
+                Start Practicing
+              </button>
+            </div>
+          </div>
+        </section>
+
+        <!-- About View -->
+        <section id="view-about" class="view">
+          <div class="content-page">
+            <h1>About Ethiopian Grade 12 Exams</h1>
+            <div class="content-section">
+              <h2>Welcome to Grade 12 Exam Practice Platform</h2>
+              <p>
+                This platform provides comprehensive practice materials for Ethiopian Grade 12 national entrance 
+                and remedial examinations. Students can access previous exam questions with detailed solutions 
+                to enhance their preparation.
+              </p>
+              <h3>Features</h3>
+              <ul class="feature-list">
+                <li><strong>Entrance Exams:</strong> Practice previous national entrance examination questions</li>
+                <li><strong>Remedial Exams:</strong> Access remedial examination materials</li>
+                <li><strong>Multiple Years:</strong> Questions from 2015, 2016, 2017 and more</li>
+                <li><strong>Natural & Social Streams:</strong> Comprehensive coverage of all subjects</li>
+                <li><strong>Detailed Solutions:</strong> Step-by-step explanations for every question</li>
+                <li><strong>Math Support:</strong> Full mathematical notation support for Mathematics and Physics</li>
+              </ul>
+              <h3>How to Use</h3>
+              <ol class="feature-list">
+                <li>Select your exam type (Entrance or Remedial)</li>
+                <li>Choose the year</li>
+                <li>Pick your stream (Natural or Social)</li>
+                <li>Select the course/subject</li>
+                <li>Start practicing and check solutions</li>
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        <!-- Contact View -->
+        <section id="view-contact" class="view">
+          <div class="content-page">
+            <h1>Contact Us</h1>
+            <div class="content-section">
+              <h2>Get in Touch</h2>
+              <p>
+                If you have questions, suggestions, or need assistance with the platform, please contact us.
+              </p>
+              <div class="contact-info">
+                <div class="contact-item">
+                  <strong>Email:</strong> support@grade12exams.et
+                </div>
+                <div class="contact-item">
+                  <strong>Platform:</strong> Ethiopian Grade 12 Entrance & Remedial Exams Portal
+                </div>
+                <div class="contact-item">
+                  <strong>Purpose:</strong> Educational support for Grade 12 students
+                </div>
+              </div>
+              <h3>Report Issues</h3>
+              <p>
+                If you encounter any technical issues or have questions about exam content, 
+                please reach out through the contact information above.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- Exam Selection + Player View -->
+        <section id="view-exam" class="view">
+          <div class="layout-two-column">
+            <aside class="panel panel-left">
+              <h2>Select Exam</h2>
+
+              <div class="selector-group">
+                <label class="selector-label">Grade</label>
+                <div class="pill-row">
+                  <button class="pill pill-selected" data-grade="12">Grade 12</button>
+                </div>
+              </div>
+
+              <div class="selector-group">
+                <label class="selector-label">Exam Type</label>
+                <div class="pill-row" id="exam-type-row">
+                  <button class="pill" data-exam-type="entrance">Entrance</button>
+                  <button class="pill" data-exam-type="remedial">Remedial</button>
+                </div>
+              </div>
+
+              <div class="selector-group">
+                <label class="selector-label">Year</label>
+                <div class="pill-row" id="year-row">
+                  <!-- years populated by JS -->
+                </div>
+              </div>
+
+              <div class="selector-group">
+                <label class="selector-label">Stream</label>
+                <div class="pill-row" id="stream-row">
+                  <!-- Natural / Social -->
+                </div>
+              </div>
+
+              <div class="selector-group">
+                <label class="selector-label">Course</label>
+                <div class="pill-row" id="course-row">
+                  <!-- course list -->
+                </div>
+              </div>
+
+              <button id="start-exam-btn" class="primary full-width" disabled>
+                Start Exam
+              </button>
+
+              <p class="helper-text" id="selection-summary"></p>
+            </aside>
+
+            <section class="panel panel-right">
+              <div id="exam-container" class="exam-container empty-state">
+                <h2>No exam loaded yet</h2>
+                <p>Please select exam type, year, stream, and course from the left.</p>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <!-- Admin Dashboard View -->
+        <section id="view-admin" class="view">
+          <div class="layout-two-column admin-layout">
+            <aside class="panel panel-left">
+              <h2>Admin Dashboard</h2>
+              <p class="helper-text">
+                Create and manage Grade 12 entrance and remedial questions with solutions.
+                Data is stored in MongoDB database.
+              </p>
+
+              <form id="admin-form" class="admin-form">
+                <div class="field-row">
+                  <label>Exam Type</label>
+                  <select id="admin-exam-type">
+                    <option value="entrance">Entrance</option>
+                    <option value="remedial">Remedial</option>
+                  </select>
+                </div>
+
+                <div class="field-row">
+                  <label>Year</label>
+                  <select id="admin-year">
+                    <option value="2015">2015</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                    <option value="2023">2023</option>
+                    <option value="2024">2024</option>
+                    <option value="2025">2025</option>
+                    <option value="2026">2026</option>
+                    <option value="2027">2027</option>
+                    <option value="2028">2028</option>
+                    <option value="2029">2029</option>
+                  </select>
+                </div>
+
+                <div class="field-row">
+                  <label>Stream</label>
+                  <select id="admin-stream">
+                    <option value="natural">Natural</option>
+                    <option value="social">Social</option>
+                  </select>
+                </div>
+
+                <div class="field-row">
+                  <label>Course</label>
+                  <select id="admin-course" required>
+                    <option value="">Select course</option>
+                  </select>
+                </div>
+
+                <div class="field-row">
+                  <label>Question</label>
+                  <textarea
+                    id="admin-question"
+                    rows="3"
+                    placeholder="Enter the full question text"
+                    required
+                  ></textarea>
+                </div>
+
+                <div class="field-row">
+                  <label>Choices (A–D) - supports math notation</label>
+                  <input id="admin-choice-a" type="text" placeholder="Choice A (e.g., $2e^{2x}$)" required />
+                  <input id="admin-choice-b" type="text" placeholder="Choice B" required />
+                  <input id="admin-choice-c" type="text" placeholder="Choice C" required />
+                  <input id="admin-choice-d" type="text" placeholder="Choice D" required />
+                </div>
+
+                <div class="field-row">
+                  <label>Correct Answer</label>
+                  <select id="admin-correct-answer">
+                    <option value="A">A</option>
+                    <option value="B">B</option>
+                    <option value="C">C</option>
+                    <option value="D">D</option>
+                  </select>
+                </div>
+
+                <div class="field-row">
+                  <label>Detailed Solution (supports math notation)</label>
+                  <textarea
+                    id="admin-solution"
+                    rows="4"
+                    placeholder="Example: Using the chain rule, $f'(x) = 2e^{2x}$. Therefore, the answer is B."
+                    required
+                  ></textarea>
+                  <small class="helper-text" style="font-size: 10px; color: #9ca3af; margin-top: 2px;">
+                    Use $...$ for inline math, $$...$$ for displayed equations
+                  </small>
+                </div>
+
+                <button type="submit" class="primary full-width" style="margin-top: 15px; padding: 12px; font-weight: 600; font-size: 14px;">
+                  💾 Save Question
+                </button>
+              </form>
+            </aside>
+
+            <section class="panel panel-right">
+              <div class="admin-list-header">
+                <h3>Existing Questions</h3>
+                <button id="admin-refresh" class="secondary small">Refresh</button>
+              </div>
+              <div id="admin-question-list" class="admin-question-list">
+                <!-- populated by JS -->
+              </div>
+            </section>
+          </div>
+        </section>
+      </main>
+
+      <footer class="app-footer">
+        <span>
+          Grade 12 Entrance & Remedial Practice • Designed by
+          <a class="dafitech-link footer-link" href="https://dafitech.org" target="_blank" rel="noreferrer">
+            Dafitech
+          </a>
+        </span>
+        <button id="admin-footer-btn" class="footer-admin-link" title="Admin login">
+          Admin
+        </button>
+      </footer>
+    </div>
+
+    <!-- Admin Login Modal -->
+    <div id="admin-login-modal" class="modal-backdrop hidden">
+      <div class="modal">
+        <h3>Admin Login</h3>
+        <p class="helper-text">
+          This area is restricted. Please enter the admin password to access the dashboard.
+        </p>
+        <div class="field-row">
+          <label for="admin-password-input">Password</label>
+          <input
+            id="admin-password-input"
+            type="password"
+            placeholder="Enter admin password"
+          />
+        </div>
+        <div class="modal-actions">
+          <button id="admin-login-cancel" class="secondary small">Cancel</button>
+          <button id="admin-login-submit" class="primary small">Login</button>
+        </div>
+        <p id="admin-login-error" class="helper-text error-text"></p>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
+
