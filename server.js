@@ -13,17 +13,21 @@ app.use(express.static('.')); // Serve static files (HTML, CSS, JS)
 
 // MongoDB connection
 const MONGODB_URI = config.MONGODB_URI;
-
-mongoose.connect(MONGODB_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-})
-  .then(() => {
-    console.log('✅ Connected to MongoDB');
-  })
-  .catch((error) => {
-    console.error('❌ MongoDB connection error:', error);
-  });
+if (MONGODB_URI) {
+  mongoose
+    .connect(MONGODB_URI, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
+    .then(() => {
+      console.log('✅ Connected to MongoDB');
+    })
+    .catch((error) => {
+      console.error('❌ MongoDB connection error:', error);
+    });
+} else {
+  console.warn('⚠️ MONGODB_URI is not set. API endpoints will fail until configured.');
+}
 
 // Routes
 const apiRoutes = require('./routes/api');
