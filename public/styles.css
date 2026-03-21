@@ -45,7 +45,7 @@ body {
   width: min(1240px, 100%);
   min-height: calc(100vh - 28px);
   border-radius: 22px;
-  overflow: hidden;
+  overflow: visible;
   background:
     linear-gradient(165deg, rgba(37, 99, 235, 0.15), transparent 22%),
     linear-gradient(0deg, rgba(56, 189, 248, 0.06), transparent 35%),
