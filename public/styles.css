@@ -67,6 +67,9 @@ body {
     linear-gradient(90deg, rgba(15, 23, 42, 0.95), rgba(30, 64, 175, 0.35)),
     rgba(2, 6, 23, 0.85);
   backdrop-filter: blur(14px);
+  position: sticky;
+  top: 0;
+  z-index: 60;
 }
 
 .brand {
