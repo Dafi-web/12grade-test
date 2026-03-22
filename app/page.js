@@ -31,7 +31,7 @@ function AdSlot({ slot, format = 'auto', responsive = 'true' }) {
   }, [slot]);
 
   if (!ADSENSE_CLIENT) {
-    return <div className="adPlaceholder">Set NEXT_PUBLIC_ADSENSE_CLIENT to enable live ads.</div>;
+    return <div className="adPlaceholder" aria-hidden="true" />;
   }
 
   return (
