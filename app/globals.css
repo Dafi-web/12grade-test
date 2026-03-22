@@ -61,6 +61,17 @@ body {
   align-items: center;
 }
 
+.adminTop {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.adminWelcome {
+  color: #bfdbfe;
+  font-weight: 700;
+}
+
 button {
   border-radius: 999px;
   border: 1px solid var(--line);
@@ -175,10 +186,30 @@ textarea {
   display: flex;
   gap: 8px;
   align-items: flex-start;
+  justify-content: flex-start;
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
   border: 1px solid var(--line);
   border-radius: 10px;
   padding: 8px 10px;
   margin-bottom: 8px;
+}
+
+.opt input {
+  flex: 0 0 auto;
+  margin-top: 2px;
+}
+
+.opt b {
+  min-width: 22px;
+}
+
+.optText {
+  flex: 1;
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: isolate;
 }
 
 .solution {

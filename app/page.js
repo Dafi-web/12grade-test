@@ -6,6 +6,7 @@ const YEARS = Array.from({ length: 15 }, (_, i) => String(2015 + i));
 const NATURAL = ['Mathematics', 'Physics', 'Chemistry', 'Biology', 'English', 'Aptitude', 'Technical Drawing', 'ICT'];
 const SOCIAL = ['History', 'Geography', 'Economics', 'Civics', 'Business', 'English', 'Aptitude', 'ICT'];
 const ADMIN_PASSWORD = 'muse@dawit';
+const APP_STATE_KEY = 'dafitech-app-state-v1';
 
 async function api(path, options = {}) {
   const res = await fetch(path, options);
@@ -62,6 +63,42 @@ export default function Page() {
     : 0;
   const percent = total ? Math.round((correctCount / total) * 100) : 0;
   const pass = percent >= 80;
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem(APP_STATE_KEY);
+      if (!raw) return;
+      const saved = JSON.parse(raw);
+      if (saved?.view) setView(saved.view);
+      if (typeof saved?.isAdmin === 'boolean') setIsAdmin(saved.isAdmin);
+      if (saved?.sel && typeof saved.sel === 'object') {
+        setSel((prev) => ({
+          ...prev,
+          examType: saved.sel.examType || '',
+          year: saved.sel.year || '',
+          stream: saved.sel.stream || '',
+          course: saved.sel.course || '',
+        }));
+      }
+    } catch {
+      // ignore invalid local storage payloads
+    }
+  }, []);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(
+        APP_STATE_KEY,
+        JSON.stringify({
+          view,
+          isAdmin,
+          sel,
+        })
+      );
+    } catch {
+      // ignore storage errors
+    }
+  }, [view, isAdmin, sel]);
 
   useEffect(() => {
     if (isAdmin) setView('admin');
@@ -176,6 +213,13 @@ export default function Page() {
     }
   }
 
+  function logoutAdmin() {
+    setIsAdmin(false);
+    setView('home');
+    setEditingId('');
+    setShowAdminLogin(false);
+  }
+
   return (
     <div className="app">
       <header className="topbar">
@@ -198,6 +242,12 @@ export default function Page() {
             <button onClick={() => setView('about')}>About</button>
             <button onClick={() => setView('contact')}>Contact</button>
           </nav>
+        )}
+        {isAdmin && (
+          <div className="adminTop">
+            <span className="adminWelcome">Welcome, Admin</span>
+            <button onClick={logoutAdmin}>Logout</button>
+          </div>
         )}
       </header>
 
@@ -296,7 +346,7 @@ export default function Page() {
                         checked={answers[q._id] === opt}
                         onChange={() => setAnswers((a) => ({ ...a, [q._id]: opt }))}
                       />
-                      <b>{opt}.</b> {q.choices?.[opt]}
+                      <b>{opt}.</b> <span className="optText">{q.choices?.[opt]}</span>
                     </label>
                   ))}
                   <div className="row">
@@ -347,6 +397,7 @@ export default function Page() {
           <section className="grid">
             <aside className="card">
               <h2>Admin Dashboard</h2>
+              <p className="lead">Welcome, Admin. Manage questions and solutions here.</p>
               <form onSubmit={saveQuestion} className="form">
                 <label>Exam Type</label>
                 <select value={adminForm.examType} onChange={(e) => setAdminForm((s) => ({ ...s, examType: e.target.value }))} disabled={!!editingId}>
