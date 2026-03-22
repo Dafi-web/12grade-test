@@ -2,11 +2,13 @@ import './globals.css';
 import Script from 'next/script';
 
 export default function RootLayout({ children }) {
-  const adsenseClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT;
+  const adsenseClient = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || 'ca-pub-6967261100439734';
 
   return (
     <html lang="en" dir="ltr">
-      <head />
+      <head>
+        <meta name="google-adsense-account" content={adsenseClient} />
+      </head>
       <body>
         {adsenseClient ? (
           <Script
