@@ -26,6 +26,8 @@ body {
   margin: 0;
   padding: 0;
   min-height: 100%;
+  direction: ltr;
+  text-align: left;
   font-family: 'Poppins', 'Inter', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
   color: var(--text-0);
   background:
@@ -654,11 +656,15 @@ body {
 
 .question-body {
   margin-bottom: 12px;
+  direction: ltr;
+  text-align: left;
 }
 
 .question-text {
   font-size: 15px;
   line-height: 1.65;
+  direction: ltr;
+  text-align: left;
 }
 
 .MathJax,
@@ -671,6 +677,8 @@ body {
   flex-direction: column;
   gap: 8px;
   margin-bottom: 12px;
+  direction: ltr;
+  text-align: left;
 }
 
 .choice {
@@ -682,6 +690,8 @@ body {
   gap: 8px;
   cursor: pointer;
   padding: 9px 10px;
+  direction: ltr;
+  text-align: left;
 }
 
 .choice:hover {
@@ -700,6 +710,8 @@ body {
 
 .choice span:last-child {
   flex: 1;
+  text-align: left;
+  direction: ltr;
 }
 
 .exam-actions {
