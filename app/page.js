@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 
 const YEARS = Array.from({ length: 15 }, (_, i) => String(2015 + i));
 const NATURAL = ['Mathematics', 'Physics', 'Chemistry', 'Biology', 'English', 'Aptitude', 'Technical Drawing', 'ICT'];
@@ -22,6 +22,7 @@ export default function Page() {
   const [pwd, setPwd] = useState('');
   const [pwdErr, setPwdErr] = useState('');
   const [examMenuOpen, setExamMenuOpen] = useState(false);
+  const menuRef = useRef(null);
 
   const [sel, setSel] = useState({
     examType: '',
@@ -107,6 +108,26 @@ export default function Page() {
   useEffect(() => {
     if (isAdmin) loadAdminQuestions();
   }, [isAdmin]);
+
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (!menuRef.current) return;
+      if (!menuRef.current.contains(event.target)) {
+        setExamMenuOpen(false);
+      }
+    }
+
+    function handleEscape(event) {
+      if (event.key === 'Escape') setExamMenuOpen(false);
+    }
+
+    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('keydown', handleEscape);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('keydown', handleEscape);
+    };
+  }, []);
 
   async function loadAdminQuestions() {
     setLoadingAdmin(true);
@@ -230,8 +251,10 @@ export default function Page() {
         {!isAdmin && (
           <nav className="nav">
             <button onClick={() => setView('home')}>Home</button>
-            <div className="menu" onMouseLeave={() => setExamMenuOpen(false)}>
-              <button onClick={() => setExamMenuOpen((v) => !v)}>Exams</button>
+            <div className="menu" ref={menuRef}>
+              <button onClick={() => setExamMenuOpen((v) => !v)} aria-expanded={examMenuOpen}>
+                Exams
+              </button>
               {examMenuOpen && (
                 <div className="menuList">
                   <button onClick={() => openExamFromMenu('entrance')}>Entrance</button>
@@ -270,6 +293,33 @@ export default function Page() {
                 <p>See pass/fail (80%) and correct answers fast.</p>
               </div>
             </div>
+            <section className="adsWrap" aria-label="sponsored and advertisement">
+              <div className="adHero">
+                <p className="adTag">Advertisement</p>
+                <h3>Dafitech Learning Boost</h3>
+                <p>Daily mock practice, solution videos, and progress tracking for top exam scores.</p>
+                <a href="https://dafitech.org" target="_blank" rel="noreferrer">
+                  Visit dafitech.org
+                </a>
+              </div>
+              <div className="adGrid">
+                <article className="adCard">
+                  <p className="adTag">Sponsored</p>
+                  <h4>Math Speed Clinic</h4>
+                  <p>Master derivatives, limits, and logarithms with short drills.</p>
+                </article>
+                <article className="adCard">
+                  <p className="adTag">Featured</p>
+                  <h4>Science Revision Pack</h4>
+                  <p>Physics, chemistry, and biology flash-review before exam day.</p>
+                </article>
+                <article className="adCard">
+                  <p className="adTag">New</p>
+                  <h4>Career & Aptitude Tips</h4>
+                  <p>Prepare smart for aptitude and future university pathways.</p>
+                </article>
+              </div>
+            </section>
           </section>
         )}
 

@@ -97,12 +97,26 @@ button.active {
   top: 100%;
   left: 0;
   margin-top: 4px;
-  background: #0b1220;
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  padding: 6px;
+  min-width: 170px;
+  background: linear-gradient(180deg, #0b1220, #0f1b33);
+  border: 1px solid rgba(56, 189, 248, 0.38);
+  border-radius: 12px;
+  padding: 8px;
   display: grid;
   gap: 4px;
+  z-index: 100;
+  box-shadow: 0 10px 24px rgba(2, 6, 23, 0.48);
+}
+
+.menuList button {
+  width: 100%;
+  text-align: left;
+  border-radius: 10px;
+}
+
+.menuList button:hover {
+  border-color: rgba(103, 232, 249, 0.65);
+  background: #163053;
 }
 
 .main {
@@ -134,6 +148,63 @@ button.active {
   border-radius: 12px;
   padding: 10px;
   background: #101a2d;
+}
+
+.adsWrap {
+  margin-top: 14px;
+  display: grid;
+  gap: 12px;
+}
+
+.adHero {
+  border: 1px solid rgba(56, 189, 248, 0.38);
+  border-radius: 14px;
+  padding: 14px;
+  background: linear-gradient(130deg, rgba(56, 189, 248, 0.2), rgba(37, 99, 235, 0.12), rgba(11, 18, 32, 0.95));
+}
+
+.adHero h3 {
+  margin: 4px 0;
+  color: #dbeafe;
+}
+
+.adHero a {
+  color: #67e8f9;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.adHero a:hover {
+  text-decoration: underline;
+}
+
+.adGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.adCard {
+  border: 1px solid rgba(148, 163, 184, 0.32);
+  border-radius: 12px;
+  padding: 12px;
+  background: linear-gradient(180deg, #0f172a, #111d34);
+}
+
+.adCard h4 {
+  margin: 4px 0;
+}
+
+.adTag {
+  margin: 0;
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 800;
+  color: #cffafe;
+  background: rgba(34, 211, 238, 0.18);
+  border: 1px solid rgba(34, 211, 238, 0.38);
 }
 
 .grid {
@@ -270,6 +341,9 @@ textarea {
   .grid {
     grid-template-columns: 1fr;
   }
+  .adGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 640px) {
@@ -283,6 +357,18 @@ textarea {
     width: 100%;
     overflow-x: auto;
     padding-bottom: 2px;
+  }
+  .menuList {
+    left: auto;
+    right: 0;
+    min-width: 180px;
+  }
+  .adGrid {
+    grid-template-columns: 1fr;
+  }
+  .adHero,
+  .adCard {
+    padding: 12px;
   }
 }
 
