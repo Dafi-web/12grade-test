@@ -339,7 +339,7 @@ export default function Page() {
 
         {view === 'exam' && !isAdmin && (
           <section className="grid">
-            <aside className="card">
+            <aside className="card examFilters">
               <h2>Select Exam</h2>
               <label>Exam Type</label>
               <div className="row">

@@ -213,6 +213,45 @@ button.active {
   gap: 12px;
 }
 
+.examFilters {
+  padding: 16px;
+}
+
+.examFilters h2 {
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 40px;
+}
+
+.examFilters label {
+  display: block;
+  margin: 10px 0 6px;
+  font-size: 20px;
+}
+
+.examFilters select {
+  min-height: 42px;
+  font-size: 20px;
+  border-radius: 12px;
+}
+
+.examFilters .row {
+  gap: 10px;
+}
+
+.examFilters .row button {
+  min-height: 42px;
+  font-size: 20px;
+  padding: 10px 16px;
+}
+
+.examFilters > button {
+  margin-top: 12px;
+  min-height: 42px;
+  font-size: 20px;
+  padding: 10px 16px;
+}
+
 .form {
   display: grid;
   gap: 8px;
@@ -341,6 +380,15 @@ textarea {
   .grid {
     grid-template-columns: 1fr;
   }
+  .examFilters h2 {
+    font-size: 30px;
+  }
+  .examFilters label,
+  .examFilters select,
+  .examFilters .row button,
+  .examFilters > button {
+    font-size: 18px;
+  }
   .adGrid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -369,6 +417,15 @@ textarea {
   .adHero,
   .adCard {
     padding: 12px;
+  }
+  .examFilters h2 {
+    font-size: 26px;
+  }
+  .examFilters label,
+  .examFilters select,
+  .examFilters .row button,
+  .examFilters > button {
+    font-size: 16px;
   }
 }
 
