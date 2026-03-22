@@ -1,6 +1,10 @@
 const mongoose = require('mongoose');
 
 const QuestionSchema = new mongoose.Schema({
+  number: {
+    type: Number,
+    required: false,
+  },
   text: {
     type: String,
     required: true,

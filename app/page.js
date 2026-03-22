@@ -121,10 +121,10 @@ export default function Page() {
       if (event.key === 'Escape') setExamMenuOpen(false);
     }
 
-    document.addEventListener('mousedown', handleClickOutside);
+    document.addEventListener('pointerdown', handleClickOutside);
     document.addEventListener('keydown', handleEscape);
     return () => {
-      document.removeEventListener('mousedown', handleClickOutside);
+      document.removeEventListener('pointerdown', handleClickOutside);
       document.removeEventListener('keydown', handleEscape);
     };
   }, []);
@@ -509,10 +509,18 @@ export default function Page() {
               </div>
               {loadingAdmin && <p>Loading...</p>}
               {!loadingAdmin &&
-                adminQuestions.map((row) => (
+                [...adminQuestions]
+                  .sort((a, b) => {
+                    const ak = `${a.examType}|${a.year}|${a.stream}|${a.course}`;
+                    const bk = `${b.examType}|${b.year}|${b.stream}|${b.course}`;
+                    if (ak < bk) return -1;
+                    if (ak > bk) return 1;
+                    return (a.number || 0) - (b.number || 0);
+                  })
+                  .map((row) => (
                   <div key={row.id} className="item ltr">
                     <p>
-                      <b>{row.examType}</b> • {row.year} • {row.stream} • {row.course}
+                      <b>{row.examType}</b> • {row.year} • {row.stream} • {row.course} • <b>Q{row.number || '-'}</b>
                     </p>
                     <p>{row.text}</p>
                     <div className="row">

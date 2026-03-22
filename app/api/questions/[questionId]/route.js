@@ -44,6 +44,7 @@ export async function PUT(req, { params }) {
       return NextResponse.json({ error: 'Question not found' }, { status: 404 });
     }
 
+    // Preserve existing number; do not renumber on update
     subdoc.text = question.text;
     subdoc.choices = question.choices;
     subdoc.correct = question.correct;
@@ -56,6 +57,7 @@ export async function PUT(req, { params }) {
       questionId,
       updated: {
         id: subdoc._id,
+        number: subdoc.number,
         text: subdoc.text,
         choices: subdoc.choices,
         correct: subdoc.correct,
