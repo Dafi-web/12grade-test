@@ -150,6 +150,12 @@ export default function Page() {
     setShowSol(false);
   }
 
+  function handleExamsNavClick() {
+    // Always move to Exam page on click/tap (important for mobile usability)
+    setView('exam');
+    setExamMenuOpen((v) => !v);
+  }
+
   async function startExam() {
     setSubmitted(false);
     setShowSol(false);
@@ -252,7 +258,7 @@ export default function Page() {
           <nav className="nav">
             <button onClick={() => setView('home')}>Home</button>
             <div className="menu" ref={menuRef}>
-              <button onClick={() => setExamMenuOpen((v) => !v)} aria-expanded={examMenuOpen}>
+              <button onClick={handleExamsNavClick} aria-expanded={examMenuOpen}>
                 Exams
               </button>
               {examMenuOpen && (
