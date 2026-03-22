@@ -7,9 +7,9 @@ const NATURAL = ['Mathematics', 'Physics', 'Chemistry', 'Biology', 'English', 'A
 const SOCIAL = ['History', 'Geography', 'Economics', 'Civics', 'Business', 'English', 'Aptitude', 'ICT'];
 const ADMIN_PASSWORD = 'muse@dawit';
 const APP_STATE_KEY = 'dafitech-app-state-v1';
-const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || '';
-const ADS_SLOT_TOP = process.env.NEXT_PUBLIC_ADSENSE_SLOT_TOP || '1234567890';
-const ADS_SLOT_BOTTOM = process.env.NEXT_PUBLIC_ADSENSE_SLOT_BOTTOM || '2345678901';
+const ADSENSE_CLIENT = 'ca-pub-6967261100439734';
+const ADS_SLOT_TOP = '1234567890';
+const ADS_SLOT_BOTTOM = '2345678901';
 
 async function api(path, options = {}) {
   const res = await fetch(path, options);
@@ -20,7 +20,6 @@ async function api(path, options = {}) {
 
 function AdSlot({ slot, format = 'auto', responsive = 'true' }) {
   useEffect(() => {
-    if (!ADSENSE_CLIENT) return;
     try {
       if (window.adsbygoogle) {
         window.adsbygoogle.push({});
@@ -29,10 +28,6 @@ function AdSlot({ slot, format = 'auto', responsive = 'true' }) {
       // ignore ad render errors to avoid blocking UI
     }
   }, [slot]);
-
-  if (!ADSENSE_CLIENT) {
-    return <div className="adPlaceholder" aria-hidden="true" />;
-  }
 
   return (
     <ins

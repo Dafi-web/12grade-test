@@ -209,15 +209,6 @@ button.active {
   min-height: 90px;
 }
 
-.adPlaceholder {
-  min-height: 90px;
-  display: grid;
-  place-items: center;
-  text-align: center;
-  color: #93c5fd;
-  font-size: 12px;
-}
-
 .homePulseRow {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
