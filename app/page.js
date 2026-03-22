@@ -8,6 +8,8 @@ const SOCIAL = ['History', 'Geography', 'Economics', 'Civics', 'Business', 'Engl
 const ADMIN_PASSWORD = 'muse@dawit';
 const APP_STATE_KEY = 'dafitech-app-state-v1';
 const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || '';
+const ADS_SLOT_TOP = process.env.NEXT_PUBLIC_ADSENSE_SLOT_TOP || '1234567890';
+const ADS_SLOT_BOTTOM = process.env.NEXT_PUBLIC_ADSENSE_SLOT_BOTTOM || '2345678901';
 
 async function api(path, options = {}) {
   const res = await fetch(path, options);
@@ -320,7 +322,7 @@ export default function Page() {
               <span>Pass mark: 80%</span>
             </div>
             <div className="adSection">
-              <AdSlot slot="1234567890" />
+              <AdSlot slot={ADS_SLOT_TOP} />
             </div>
             <div className="homePulseRow">
               <div className="pulseCard">Fast exam flow</div>
@@ -328,7 +330,7 @@ export default function Page() {
               <div className="pulseCard">Mobile friendly</div>
             </div>
             <div className="adSection">
-              <AdSlot slot="2345678901" />
+              <AdSlot slot={ADS_SLOT_BOTTOM} />
             </div>
           </section>
         )}
