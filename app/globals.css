@@ -168,61 +168,98 @@ button.active {
   background: #101a2d;
 }
 
-.adsWrap {
-  margin-top: 14px;
-  display: grid;
-  gap: 12px;
+.homeClean {
+  overflow: hidden;
 }
 
-.adHero {
-  border: 1px solid rgba(56, 189, 248, 0.38);
-  border-radius: 14px;
-  padding: 14px;
-  background: linear-gradient(130deg, rgba(56, 189, 248, 0.2), rgba(37, 99, 235, 0.12), rgba(11, 18, 32, 0.95));
+.homeTitle {
+  margin: 0;
+  animation: softGlow 3.5s ease-in-out infinite;
 }
 
-.adHero h3 {
-  margin: 4px 0;
+.homeLead {
+  margin-bottom: 12px;
+}
+
+.homeBadges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+
+.homeBadges span {
+  border: 1px solid rgba(125, 211, 252, 0.4);
+  background: rgba(15, 23, 42, 0.7);
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: 12px;
   color: #dbeafe;
 }
 
-.adHero a {
-  color: #67e8f9;
-  font-weight: 700;
-  text-decoration: none;
+.adSection {
+  border: 1px solid rgba(148, 163, 184, 0.26);
+  border-radius: 12px;
+  padding: 10px;
+  background: rgba(2, 6, 23, 0.45);
+  margin: 10px 0;
 }
 
-.adHero a:hover {
-  text-decoration: underline;
+.adIns {
+  min-height: 90px;
 }
 
-.adGrid {
+.adPlaceholder {
+  min-height: 90px;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  color: #93c5fd;
+  font-size: 12px;
+}
+
+.homePulseRow {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
+  margin: 12px 0;
 }
 
-.adCard {
-  border: 1px solid rgba(148, 163, 184, 0.32);
+.pulseCard {
+  border: 1px solid rgba(148, 163, 184, 0.3);
   border-radius: 12px;
-  padding: 12px;
-  background: linear-gradient(180deg, #0f172a, #111d34);
+  background: linear-gradient(180deg, rgba(30, 58, 138, 0.25), rgba(15, 23, 42, 0.7));
+  padding: 10px;
+  text-align: center;
+  animation: floatUpDown 2.8s ease-in-out infinite;
 }
 
-.adCard h4 {
-  margin: 4px 0;
+.homePulseRow .pulseCard:nth-child(2) {
+  animation-delay: 0.2s;
 }
 
-.adTag {
-  margin: 0;
-  display: inline-block;
-  padding: 2px 8px;
-  border-radius: 999px;
-  font-size: 11px;
-  font-weight: 800;
-  color: #cffafe;
-  background: rgba(34, 211, 238, 0.18);
-  border: 1px solid rgba(34, 211, 238, 0.38);
+.homePulseRow .pulseCard:nth-child(3) {
+  animation-delay: 0.4s;
+}
+
+@keyframes softGlow {
+  0%,
+  100% {
+    text-shadow: 0 0 0 rgba(103, 232, 249, 0);
+  }
+  50% {
+    text-shadow: 0 0 16px rgba(103, 232, 249, 0.28);
+  }
+}
+
+@keyframes floatUpDown {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
 }
 
 .grid {
@@ -409,7 +446,7 @@ textarea {
   .examFilters > button {
     font-size: 18px;
   }
-  .adGrid {
+  .homePulseRow {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -423,20 +460,21 @@ textarea {
   }
   .nav {
     width: 100%;
-    overflow-x: auto;
+    overflow: visible;
+    flex-wrap: wrap;
     padding-bottom: 2px;
+  }
+  .menu {
+    position: relative;
   }
   .menuList {
     left: auto;
     right: 0;
     min-width: 180px;
+    z-index: 300;
   }
-  .adGrid {
+  .homePulseRow {
     grid-template-columns: 1fr;
-  }
-  .adHero,
-  .adCard {
-    padding: 12px;
   }
   .examFilters h2 {
     font-size: 26px;

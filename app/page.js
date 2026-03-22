@@ -7,12 +7,41 @@ const NATURAL = ['Mathematics', 'Physics', 'Chemistry', 'Biology', 'English', 'A
 const SOCIAL = ['History', 'Geography', 'Economics', 'Civics', 'Business', 'English', 'Aptitude', 'ICT'];
 const ADMIN_PASSWORD = 'muse@dawit';
 const APP_STATE_KEY = 'dafitech-app-state-v1';
+const ADSENSE_CLIENT = process.env.NEXT_PUBLIC_ADSENSE_CLIENT || '';
 
 async function api(path, options = {}) {
   const res = await fetch(path, options);
   const data = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
   return data;
+}
+
+function AdSlot({ slot, format = 'auto', responsive = 'true' }) {
+  useEffect(() => {
+    if (!ADSENSE_CLIENT) return;
+    try {
+      if (window.adsbygoogle) {
+        window.adsbygoogle.push({});
+      }
+    } catch {
+      // ignore ad render errors to avoid blocking UI
+    }
+  }, [slot]);
+
+  if (!ADSENSE_CLIENT) {
+    return <div className="adPlaceholder">Set NEXT_PUBLIC_ADSENSE_CLIENT to enable live ads.</div>;
+  }
+
+  return (
+    <ins
+      className="adsbygoogle adIns"
+      style={{ display: 'block' }}
+      data-ad-client={ADSENSE_CLIENT}
+      data-ad-slot={slot}
+      data-ad-format={format}
+      data-full-width-responsive={responsive}
+    />
+  );
 }
 
 export default function Page() {
@@ -282,50 +311,25 @@ export default function Page() {
 
       <main className="main">
         {view === 'home' && !isAdmin && (
-          <section className="card">
-            <h1>Grade 12 Entrance & Remedial Exams</h1>
-            <p className="lead">Practice smart. Learn faster. Pass with confidence.</p>
-            <div className="topics">
-              <div>
-                <h3>Entrance Exams</h3>
-                <p>Real exam style. Year by year.</p>
-              </div>
-              <div>
-                <h3>Remedial Exams</h3>
-                <p>Fix weak topics with clear guidance.</p>
-              </div>
-              <div>
-                <h3>Instant Feedback</h3>
-                <p>See pass/fail (80%) and correct answers fast.</p>
-              </div>
+          <section className="card homeClean">
+            <h1 className="homeTitle">Grade 12 Entrance & Remedial Exams</h1>
+            <p className="lead homeLead">Short practice. Clear solutions. Better results.</p>
+            <div className="homeBadges">
+              <span>2015 - 2029</span>
+              <span>Natural & Social</span>
+              <span>Pass mark: 80%</span>
             </div>
-            <section className="adsWrap" aria-label="sponsored and advertisement">
-              <div className="adHero">
-                <p className="adTag">Advertisement</p>
-                <h3>Dafitech Learning Boost</h3>
-                <p>Daily mock practice, solution videos, and progress tracking for top exam scores.</p>
-                <a href="https://dafitech.org" target="_blank" rel="noreferrer">
-                  Visit dafitech.org
-                </a>
-              </div>
-              <div className="adGrid">
-                <article className="adCard">
-                  <p className="adTag">Sponsored</p>
-                  <h4>Math Speed Clinic</h4>
-                  <p>Master derivatives, limits, and logarithms with short drills.</p>
-                </article>
-                <article className="adCard">
-                  <p className="adTag">Featured</p>
-                  <h4>Science Revision Pack</h4>
-                  <p>Physics, chemistry, and biology flash-review before exam day.</p>
-                </article>
-                <article className="adCard">
-                  <p className="adTag">New</p>
-                  <h4>Career & Aptitude Tips</h4>
-                  <p>Prepare smart for aptitude and future university pathways.</p>
-                </article>
-              </div>
-            </section>
+            <div className="adSection">
+              <AdSlot slot="1234567890" />
+            </div>
+            <div className="homePulseRow">
+              <div className="pulseCard">Fast exam flow</div>
+              <div className="pulseCard">Detailed corrections</div>
+              <div className="pulseCard">Mobile friendly</div>
+            </div>
+            <div className="adSection">
+              <AdSlot slot="2345678901" />
+            </div>
           </section>
         )}
 
