@@ -1,0 +1,969 @@
+{
+  "grade": "12",
+  "examType": "entrance",
+  "year": "2015",
+  "stream": "natural",
+  "course": "English",
+  "questions": [
+    {
+      "number": 1,
+      "text": "[Question 1 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 2,
+      "text": "[Question 2 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 3,
+      "text": "[Question 3 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 4,
+      "text": "[Question 4 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 5,
+      "text": "[Question 5 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 6,
+      "text": "[Question 6 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 7,
+      "text": "the take Bikila first to Abebe gold ever an was Olympic home African\nmedal.",
+      "choices": {
+        "A": "The first Affican Abebe Bikila was ever to take bome an Olympic gold medal.",
+        "B": "Abebe Bikila evertake an Olympic gold medal to home was the first African.",
+        "C": "Abebe Bikila was ever the first Afican gold to take home an Olympic medal.",
+        "D": "Abebe Bikila was the first African lo evertake home an Olympic gold medal. Section Thrce: Letter Writing Direction: Questions 8 - 10 are about letter writing. Read each item carefully and answer it accordingly.Then,blacken the letter of your choice on the separate answer sheet provided."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 8,
+      "text": "What is your opening sentence in a formal letter supposed to do?",
+      "choices": {
+        "A": "Greet the person you are writing the letter to.",
+        "B": "State clearly why you are writing the letter.",
+        "C": "Make your address known lo the person you are writing to.",
+        "D": "Introduce yourself to the person you are writing to. When do we use \"Dear Sir/Madam\"in a fomal letter?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 9,
+      "text": "(no stem)",
+      "choices": {
+        "A": "When we want to showrespect to the person we are writing to. When we want to wrie about something that is very serious.",
+        "B": "(empty)",
+        "C": "When the person we are writing to is the head of an organization. When we do not know the name of the person to whom we write.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 10,
+      "text": "to n company?\nYours faithfully,\nMmny hunks,",
+      "choices": {
+        "A": "We uscd to stay at the Hilon Hotel and dine at Kokeb restaurant.",
+        "B": "We used lo stay at the Hilton hotel and dine at Kokeb Restaurant. We used to stay at the Hilton Hotel and dine at Kokeb Restaurant.",
+        "C": "(empty)",
+        "D": "We uscd to stay at the Hilon hotel and dine at Kokeb restaurant."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 11,
+      "text": "[Question 11 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 12,
+      "text": "(no stem)",
+      "choices": {
+        "A": "We boughi them blankels, bed sheets, cloths and some rice.",
+        "B": "We bought them blankets, bed sheets, cloths and, some rice.",
+        "C": "We bought thcm, blankets, bed sheets, cloths and some rice.",
+        "D": "We bought them blankets, bed sheets, cloths, and some rice."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 13,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(empty)",
+        "B": "At St Paul Hospital, they train doctors in a variety of fields, e.g., cardiology,neurology,etc.",
+        "C": "At St. Paul Hospital, they train doctors in a variety of fields, e.g., cardiology, neurology,elc.",
+        "D": "At St. Paul Hospital, they train doctors in a variety of fields, e.g, cardiology. neurology, ctc."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 14,
+      "text": "They donated money; gave out food; clothing and medication, and\npledged a lot more.",
+      "choices": {
+        "A": "(empty)",
+        "B": "They donated money; gave out food; clothing and medication; and pledged a lol more.",
+        "C": "nledoed a lnt mnr SUBJECT'CODE 01 Section Five: Word'Spelling separate answer shcet provided.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 15,
+      "text": "consession\ncompasion\nrecession\ndivission",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 16,
+      "text": "thaugh!",
+      "choices": {
+        "A": "(empty)",
+        "B": "tought sought Section Six: Paragraph Development Techniques Direction: Questions 17 and 18 are related to paragraph development echniqucs. From the altematives A-D given for each question, choose the correct answer and blacken the leter of your choice on the separate answer sheel provided.",
+        "C": "wraught",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 17,
+      "text": "Which one of the following sentences is most likely taken from a descriptive\nparagraph?",
+      "choices": {
+        "A": "Paul was such a quiet chap who was always silent regardless of the bitter injustice.",
+        "B": "Paul says injustice kills your work spirit and demornlizes those who work hard. Paul understands that injustice is a practice that everybody should fightand eliminate.",
+        "C": "(empty)",
+        "D": "Paul finally convinced himself that he should rebel and then went straightto his boss."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 18,
+      "text": "Which one of the following sentences is most likely taken from a paragraph\ndeveloped using cause-effect method?",
+      "choices": {
+        "A": "Whenever she gets ner'ous and depressed, I try to calm her down,",
+        "B": "There are lots of things that make life in the area very difficult.",
+        "C": "Every moming,we clean the compound and make everything'very neat.",
+        "D": "Robots are one of the most amazing inventions of the human mind. separate answer sheel provided."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 19,
+      "text": "The more we help him,\nsense of dependency he would",
+      "choices": {
+        "A": "(empty)",
+        "B": "the more",
+        "C": "more the most less",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 20,
+      "text": "You don't seem to have ever seen the creature\nI told you\nabout. It looked nothing like a kangaroo except in the way it walked.",
+      "choices": {
+        "A": ". c. one whom",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "who which"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 21,
+      "text": "If one doesn't sleep for days in a row, one\ngettinj\nnormal functions of life.",
+      "choices": {
+        "A": "will start IC. is going to stan",
+        "B": "starts",
+        "C": "(empty)",
+        "D": "may stan"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 22,
+      "text": "Mulugela always adored the\nToyota car that his\nfather drove al the beginning of the 80's.",
+      "choices": {
+        "A": "red ugly old small",
+        "B": "old small rcdugly",
+        "C": "ugly old small red",
+        "D": ". small rced ugly old"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 23,
+      "text": "They asked us to\nthem a favour of disclosing the\ncompany's secret bul thal was unacceptable to us. We cannot compromise\nour integrity.",
+      "choices": {
+        "A": "bestow make",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "give op"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 24,
+      "text": "the pilot and his crew recognized the plane had a\nproblem. However, they didn't say anything lest disturbing the passengers.",
+      "choices": {
+        "A": "Together All",
+        "B": "Fither Both",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 25,
+      "text": "You've been coughing the whole aftermoon.",
+      "choices": {
+        "A": "Is syrup good for that Js that problem very common NC.",
+        "B": "Why do you do that Why don't you sce your doctor",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 26,
+      "text": "If you enjoy.\ncity every Sunday in the afiemoon.\nwalking",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "to have a walk io be walking to walk",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 27,
+      "text": "We don't have to\nthem make off with such an\nthey did.",
+      "choices": {
+        "A": "allow",
+        "B": "(empty)",
+        "C": "concede -B. let",
+        "D": "permit"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 28,
+      "text": "They have been clearing the forest for three days.\nintervened\nto stop them.",
+      "choices": {
+        "A": "Someone need",
+        "B": "I want someone",
+        "C": "How about you",
+        "D": "Iwishsomeone"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 29,
+      "text": "He has been paralyzed for months and was literally bed-ridden. Thanks God,\nhe nowis\nwalk around in the house.",
+      "choices": {
+        "A": "interested to",
+        "B": "able to",
+        "C": "tuning able to",
+        "D": "feeling able to"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 30,
+      "text": "There are thousands of displaced people in different parts of the country who\nhave no proper sheller, food or cloth. Don't you think we\nhelp them?",
+      "choices": {
+        "A": "ought lo",
+        "B": "(empty)",
+        "C": "could shall",
+        "D": "might"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 31,
+      "text": "gentleman we saw at the gate as we were coming in is the new\nschool dircctor. I heard he was a teacher at Burame Secondary School.\nWhich",
+      "choices": {
+        "A": "The Some",
+        "B": "Uinod tampered with this",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 32,
+      "text": "Berhe:\nwhole day.",
+      "choices": {
+        "A": "Either...or",
+        "B": "Neither...nor",
+        "C": "Not only...but also",
+        "D": "Both...and"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 33,
+      "text": "When Debela arrived, she.\ndoro wol. But he didn't",
+      "choices": {
+        "A": "(empty)",
+        "B": "has been making",
+        "C": "was making had been making",
+        "D": "is making"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 34,
+      "text": "it gets",
+      "choices": {
+        "A": "But for Unless",
+        "B": "Probably In case",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 35,
+      "text": "When the police aived, the burglars\naway with the\nmoney. But there is hope thal they would be caught.\nare already making",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "have already made",
+        "D": ". have been making had already made"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 36,
+      "text": "They took off early moming\nmake it in time. Otherwise,\nthey would be late.",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "in order that vith the intention of",
+        "D": "soasto in the inlerest of to"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 37,
+      "text": "prices are still on the rise, we hope they will come\ndown in the near future.\nAlthough",
+      "choices": {
+        "A": "Nevertheless",
+        "B": "Even if In contrastto",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 38,
+      "text": "She was packing all moming as her flight was scheduled for the evening of\nthat same day.\nher husband was arranging stuff in his\noffice.\n\"C.\nContrarily\nWhat is more",
+      "choices": {
+        "A": "(empty)",
+        "B": "Supposedly Meanwhile",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 39,
+      "text": "created undisciplined citizens.\nIncomparison",
+      "choices": {
+        "A": "make force",
+        "B": "do",
+        "C": "(empty)",
+        "D": "Iet"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 40,
+      "text": "[Question 40 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 41,
+      "text": "You shouldn't expect us exactly at 6:00 pm. We\nmake it but\nif we happen to be a bit late, just take it easy and start the programme.",
+      "choices": {
+        "A": "\"shall could",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "must can"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 42,
+      "text": "She was telling me the story of her ex-boyfiend who died in a car crash ten\nyears ago.Then she\nburst into tears and screams and I\ncould never stop her.",
+      "choices": {
+        "A": "silently romantically",
+        "B": "suddenly",
+        "C": "(empty)",
+        "D": "sensibly"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 43,
+      "text": "It is a pity she didn't see her brother. Had she arrived a day earlier. she\nmet him and enjoyed a bit of time with him.",
+      "choices": {
+        "A": "must have",
+        "B": "will have should have",
+        "C": "could have",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 44,
+      "text": "Everybody understands that most of you worked very hard\nyou would pass this test, But you don't have to lose hope if the result .\nhappens to be against your expectation.",
+      "choices": {
+        "A": "despite",
+        "B": "so that which imeans If what you are telling me is true, then I",
+        "C": "asaresultofwhich",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 45,
+      "text": "straight away\nand register with them. I don't want to miss the opportunity.\nwill go",
+      "choices": {
+        "A": "am going.to.go. miist n 'D. amzoin You he insiructoris with dendlincs and he couldgiv",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 46,
+      "text": "edited.Iknow how seriop",
+      "choices": {
+        "A": "had better",
+        "B": "ought to into last night and they have alrcady",
+        "C": "you a zero. would",
+        "D": "might"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 47,
+      "text": "The house",
+      "choices": {
+        "A": "was being broken!",
+        "B": "was broken has been broken for al leasl a month or so during the last three :",
+        "C": "has broken",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 48,
+      "text": "If it\nperhaps survived in a belter number.",
+      "choices": {
+        "A": "had been raining. has rained",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "had rained"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 49,
+      "text": "Her father walks very\nbut she is like a tortoise. She\nsaunters very slowly.\nurgently\nfastly",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "quick fast I wish that we"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 50,
+      "text": "today. It is really freezing and wet.",
+      "choices": {
+        "A": ". didn't need to work",
+        "B": "(empty)",
+        "C": "will not need to work",
+        "D": "have not worked are not working"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 51,
+      "text": "Iwas offered\na reasonable fund for helping them\norganize the competition but I did nol accept it because I just wanted to\nmake my own contribution.",
+      "choices": {
+        "A": "much",
+        "B": "the",
+        "C": "an",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 52,
+      "text": "she came home, I made her coffee: Then we sat\ntogether and had hours of talk and talk.",
+      "choices": {
+        "A": "whal about ofwho",
+        "B": "whosc which We actually",
+        "C": "While Suddenly When $3. Can anyone ell ine. months.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 53,
+      "text": "[Question 53 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 54,
+      "text": "(no stem)",
+      "choices": {
+        "A": ". Top os",
+        "B": "also I like I too like",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 55,
+      "text": "this moming.",
+      "choices": {
+        "A": "forgot isforgerting",
+        "B": "has forgot forgets",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 56,
+      "text": "He was doing the washing up\nshe was cleaning the\nhouse. We like that they help one another.\nduring\nsince",
+      "choices": {
+        "A": "(empty)",
+        "B": "before while CommunicativcActivitics Dircction: Questions 57 -82 are presented in the fom of conversation. The part said by onc of the speakers is given, and a blank space is lef for the other. Choose the altemative that is most approprialc lo complete the dialogue and blacken the letter of your choice on the separalc answer sheet provided.",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 57,
+      "text": "Chuchu: Your friend has gol a good job, hasn't she?\nMeklit:",
+      "choices": {
+        "A": "Yes, she's got a job.I heard it is out oftown.",
+        "B": "Gelting a job is nol very casy these days.",
+        "C": "1 feel that the offer is rather too low, birr 2500 a month.",
+        "D": "She graduated about five years back, you know."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 58,
+      "text": "Sisn:",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 59,
+      "text": "Tencher: Where is the boy siting over there?\nFoln:",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "He is very intelligent. You don't know that, do you?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 60,
+      "text": "Telila: Why didn't you come to my party?\nAster:",
+      "choices": {
+        "A": "Was it held at your home or ...?",
+        "B": "Did everyonc else come? I apologize for that. I was on-duty.",
+        "C": "(empty)",
+        "D": "I could imagine it was so lavish."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 61,
+      "text": "Haji: Why don't we visit Chebera Churchura?\nGorge:",
+      "choices": {
+        "A": "I think the biggest problem is where to stay. There is no hotel there.",
+        "B": "Is the administration under the SNNPR or the federal govemment?",
+        "C": "I've seen it on TV and they're now almost finishing it. Great achievement!",
+        "D": "We have contributed money, though I don't know exactly how much"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 62,
+      "text": "Mimi: I guess our driver was thrown out. Anyway, it was predictable.\nKuku:",
+      "choices": {
+        "A": "I'm sorry I didn't follow what you said. I don't understand what he threw out.",
+        "B": "(empty)",
+        "C": "It was a serious accident and he lost a hand.",
+        "D": "I think he and his boss were great friends. CODE 01us"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 63,
+      "text": "Mcnsur:",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 64,
+      "text": "Tesfaye: What advantage do I have in joining the union?\nBereket:",
+      "choices": {
+        "A": "You're always against such new ideas, aren' you, brother?",
+        "B": "Come on! Many of our close friends have joined it already. Someone from the union was talking about its details yesterday.",
+        "C": "(empty)",
+        "D": "Lots! For instance, you can gel a loan of at least birr 50,o00."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 65,
+      "text": "Colleague: We're going out for dinner tonight, aren't we?\n:nox",
+      "choices": {
+        "A": "I'm not coming, if youdon't mind.",
+        "B": "That restaurant is always busy. Are you a member of the Social Committee?",
+        "C": "(empty)",
+        "D": "How much money do we have for that?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 66,
+      "text": "Amesu: When is your sister going to the university?",
+      "choices": {
+        "A": "Addis Ababa University is her favorite choice.",
+        "B": "In my opinion, she is not going to do that. She is not interested.",
+        "C": "None of the universities will start within a month. They are not ready 'D. She wants to go to Dubai and work. They have bought her a ticket.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 67,
+      "text": "Journalist: Why is it that you always avoid coming out on mass media such\nas TV?\nPsychologist:",
+      "choices": {
+        "A": "In fact,mass media plays a big role in raising awareness on the issue.",
+        "B": "The reason I don't want to do that is very personal. You know, ....",
+        "C": "You know many pcople who call themselves elites like TVs and radios.",
+        "D": "After all, mass media in this country should be doing their proper jobs."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 68,
+      "text": "Christian: Sir!\nMr. Sharma: Thal isod",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 69,
+      "text": "Almaz: This plate fllfhe cabinet but it didn't break.\nHusband:",
+      "choices": {
+        "A": "Please, keep the plrtes in a safe place.",
+        "B": "These days. platesre not like that.",
+        "C": "You are being niterloo careless these days.",
+        "D": "How nice! It seens to be made of porcelain."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 70,
+      "text": "Tesfaye: The security gurd tells me his wife has been hospitalized.\nYou:",
+      "choices": {
+        "A": "Really? Health care is very expensive these days.",
+        "B": "You know, I have never met his wife, have you? Perhaps we could coutribute some money and help.",
+        "C": "(empty)",
+        "D": "What a pity! Whotakes care of the children then?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 71,
+      "text": "Woltaji: Where is the office of the National Farmers Union?\nMbobo:",
+      "choices": {
+        "A": "I have been to that office only two days ago. It is on a beautiful building.",
+        "B": "You don't need any bus or taxi for that. Are you a stranger around? Office of the National Farmers Union? They're easing food prices in this country.",
+        "C": "(empty)",
+        "D": "Up there. When you see a tall building with blue glasses, you should tum lefi."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 72,
+      "text": "Director: We are going to suspend that student who broke the\nwindow.\nUnit leader:",
+      "choices": {
+        "A": "I agree.That would be an essential measure.",
+        "B": "Such misconducts are becoming a fashion. Amazing! Why do some students like to misbehave?",
+        "C": "(empty)",
+        "D": "Which section does he belong to? Section 4? English!20152023 EAESIESSICE"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 73,
+      "text": "Mclat:\nMost TV programs ure renlly boring.",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "Doesn'i he know thnt compulers mnke life.very cusy?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 74,
+      "text": "[Question 74 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 75,
+      "text": "Leul: I hear they have all bcen trapped in a lunnel.\nBrothcr:",
+      "choices": {
+        "A": "Whcn do they comc out, you think?",
+        "B": "I know tunnels could be dangcrous.",
+        "C": "In faci, tunnels should have bccn oul of usc. No, no! What can be done to save them?",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 76,
+      "text": "Kebede: Do you think thcir plan is going to work out?\nNigist:",
+      "choices": {
+        "A": "Who knows? Lel's wail and scc.",
+        "B": "Good plans can sometimcs fail.",
+        "C": "By thc way,who has maslcrmindcdit?",
+        "D": "Plans should be carcfully discusscd."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 77,
+      "text": "Interviewer: Was that your first time starring in a film?\nBamlak:\nNo, I don't remembcr the filmsI starrcd in.",
+      "choices": {
+        "A": "(empty)",
+        "B": "No,I had actcd in another film before thal.",
+        "C": "No, I acted in a film in English -No Good Deat",
+        "D": "Never, I was involved in three films after that."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 78,
+      "text": "Interviewer:\nDid I hear you like fashion designing?.\nDo.you like fashion designing?\n\"Why are you interested in fashion designing?",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "Could you tell me aboul your interest?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 79,
+      "text": "You:",
+      "choices": {
+        "A": "To give you an idea, robots can do anything we do.",
+        "B": "Robots are products of modem lechnology. I have scen robots on TV and they are really very smart.",
+        "C": "(empty)",
+        "D": "Haven't you seen robots helping people cross roads?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 80,
+      "text": "Farah: Is that boy Ali, your classmate?\nNisra:",
+      "choices": {
+        "A": "I didn't know you knew Ali.",
+        "B": "Ali is very gentle and polite. No, Ali is not as tall as this one.",
+        "C": "(empty)",
+        "D": "No, Ali is from around Babile."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    }
+  ]
+}

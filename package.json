@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "import-exams": "node scripts/importExamJson.js --all",
+    "build-exam-json": "python3 scripts/build_all_exams.py"
   },
   "keywords": ["education", "exams", "ethiopia"],
   "author": "",

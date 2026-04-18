@@ -1,0 +1,489 @@
+{
+  "grade": "12",
+  "examType": "entrance",
+  "year": "2014",
+  "stream": "natural",
+  "course": "Aptitude",
+  "questions": [
+    {
+      "number": 1,
+      "text": "[Question 1 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 2,
+      "text": "[Question 2 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 3,
+      "text": "[Question 3 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 4,
+      "text": "[Question 4 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 5,
+      "text": "[Question 5 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 6,
+      "text": "[Question 6 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 7,
+      "text": "[Question 7 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 8,
+      "text": "[Question 8 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 9,
+      "text": "EXERCISEistoGYMasEATINGisto:",
+      "choices": {
+        "A": "Restaurant",
+        "B": "(empty)",
+        "C": "Dieting",
+        "D": "Food Drink"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 10,
+      "text": "The EVENINGis to MORNINGas DINNER is to\nBreakfast",
+      "choices": {
+        "A": "Sky",
+        "B": "Fly Arrow 12 PENisto POETas NEEDLEisto Button Tailor",
+        "C": "Musician Persuasion",
+        "D": "Leopard"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 11,
+      "text": "[Question 11 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 12,
+      "text": "[Question 12 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 13,
+      "text": "[Question 13 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 14,
+      "text": "[Question 14 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 15,
+      "text": "Pencil\nBraser\nBook\nPen\n16\nConfuston\nChaos\nOnder",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "Legol Heart"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 16,
+      "text": "[Question 16 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 17,
+      "text": "Ear",
+      "choices": {
+        "A": "Reporter Writer Publisher Synonyms(19-22) Directions:Questions 19-22 consist of sentences in which one word is written in bold followed by four other words. Choose the word that is most nearly similar in meaning to the word in bold.Then, blacken the letter of your choice Onthe separate answer sheet provided.",
+        "B": "(empty)",
+        "C": "Reader 18,",
+        "D": "Eye Tangue"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 18,
+      "text": "[Question 18 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 19,
+      "text": "The special TV report disrupted regular programming due to theday's\nspecial events.\nContinued",
+      "choices": {
+        "A": "Complemented",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "Interupted Satisfied"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 20,
+      "text": "He dissipated his inheritance in less than six months and he is now back\nto where he was\nHoarded\nAccumulated\nSaved\nWasted",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 21,
+      "text": "If enough members of parliament dissent,the new lawwill not be\napproved.\nDisagree\nSupport",
+      "choices": {
+        "A": "(empty)",
+        "B": "rabbed ReadingComprehension1(23-27) If a person suddenlyencounters any terrible danger,the change ofnature one undergoes is equally gteat. Sometimes fearnumbs our senses.Like animals, one stands still powerless tomove a stepin frightorto lift ahand in defense ofour lives and sometimes one is seized with panic and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannotbe escaped by flight, and must be instantly faced,even the most timid men at onceasifby miracle,becomepossessedof thenecessary courage,sham quick apprehension,and swiftdecisionThis isa miracle very common in nature. Man and the inferior animals alike,when confronted with almost certain death gather resolution from despair'butthere",
+        "C": "(empty)",
+        "D": "Question Agree lootedshopsand someof the demonstrators 22 Duringthe riot, supenmarkets andtookthegoods totheirbome shot wasted bumed"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 22,
+      "text": "[Question 22 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 23,
+      "text": "The title thar best suits the passage would be:\nThe Miracle of Confronting Danger\nThe Will toFight\nThe Change of Nature\nCourage and Panic\n24\nWhat is the meaning of the word debilitaling?\nStrengthen\nEnfeeble\nFatten\nDebase\n25\nbccaise\nthey added tined him above himself for a titue.\ntheybfought himnewesperience.\nhe feh elated as be Was alive.\nlhiesesperiencesboosedhiscomidence\n\n\n\n\n\n\nBOOKLEICODE:074\nSUB.JECTCODE:03\n26\nAmian mayreact.to suddendanger in somedifferent ways.Some of these\nare:",
+      "choices": {
+        "A": "Find peacein tines ofdifficulty Hopelessness makes one determined toface the difficulty",
+        "B": "(empty)",
+        "C": "Questions to be enthusiastic and brave the odds duringdifficulty",
+        "D": "To remain calmandnotto lose hopewhen there is adifficulty Antonyms (28-30) Directions:Questions 28-30 consistof sentences in which one word is written in boldfollowed by four other words Choose the word that ismost nearly opposite in meaning totheword inbold.Then,blacken the letier of your choice on theseparateanswersheetprovided."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 24,
+      "text": "[Question 24 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 25,
+      "text": "[Question 25 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 26,
+      "text": "[Question 26 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 27,
+      "text": "[Question 27 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 28,
+      "text": "The oficer exaggerated thedamage caused by the rowdies and thus\nmade it look more senious.\nUnderestimated\nCondemned\nUareported\nIgnored\n29\nThe speaker was unable to pacify the eroiwd.\nChaileoge\nThreaten\nAntagonize\nExcite\nHisnegativeattitudeto poorpeople isdeplorable.",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 29,
+      "text": "[Question 29 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 30,
+      "text": "Desinable\nCommendable",
+      "choices": {
+        "A": "Equitable Miserable: J ReadingComprehension 11(31-35) question willbebased on theinformation statedorimplicdinthepassage.Then Dayilies are beautiful perennial Hovers tbat can brighten up any yard or lanaThyareteranfdrougtandfioodingimmmoattressn grow well in full sun or lighi shade.Theyare theperfect choiceforJust about ny soil or climate condition. Different variefies of daylities can be in bloem from iate spring until autumn. Individual flowers lastonlyoneday,buf each plamtproducesmanybuds,and many variefies have more than one floweringperiod. Daylilies grow best in soil dhal is slightly acidic and they prefer either direct sunshineor lipltshade.The besttime to plant them is in the early fall orcanly spring,bt they arehardyenoughto endureplamting ortransplanting at almost any time of year Theyshouldbeplanted 18 to24inchesapart,andthebulb should be no deeperthan one imch below the soil's surface. Adaptedfrom Reading Comprehension-Practice Questions Aceordingto thepassage,whatsoilisbestfordaylilies? 31 Moist soil Stightly acidic Any soil",
+        "B": "oneto20inches",
+        "C": "(empty)",
+        "D": "the blooms last forone day 33 oneinch ormore anydepthwork 18to24 inches"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 31,
+      "text": "[Question 31 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 32,
+      "text": "[Question 32 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 33,
+      "text": "[Question 33 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 34,
+      "text": "Daylilies growbestin\nthemomings\nsunshine",
+      "choices": {
+        "A": "darkness the evenings",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 35,
+      "text": "Which of the following is true according to the passage?\nA,\nDaylilies cannot stand drought.\nBO\nDaylilies can stand drought.\nDaylilies cannot grow in sunny weather.",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "490,625 488;280"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 36,
+      "text": "[Question 36 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 37,
+      "text": "If the line passing through (x.y)and (-1,2)has a slopeof 3 and the line\npassing through (x.y)and(2-1)has a slopeof1,then (x.y)equals:\n(-4-7)",
+      "choices": {
+        "A": ". (4,-7) (4.7)",
+        "B": "(-4.7) Ali wants to invest a total of Bir 20,000 so that hisyearly interestis",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 38,
+      "text": "Bir 1690.If he invests part of it in a bank yielding 8% profit and the\nother part in.a stook at 9.5% profit,how much should he invest at\neachrate?\nBirr 8000at9.5%;Birr12000at8%\nBirr6000at9.5%:Bi14000at8%\nBirr9000ar9,5%,Birr11000at 8%\nBir7500at9.5%:Birr12500at8%",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 39,
+      "text": "Meseret begins a saving program in which she will save Bin 10oo the\nBirt2400\nBit1360\nBit 2200",
+      "choices": {
+        "A": "(empty)",
+        "B": "4 Bin2600",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 40,
+      "text": "A ball bounces one-half the distance from which ft falls.How high\ndoes it bounce up on the fifth rebound ifthe ball is dropped fron a height\nof20m?",
+      "choices": {
+        "A": "2.5m 1.25m B5m 0.625m",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    }
+  ]
+}

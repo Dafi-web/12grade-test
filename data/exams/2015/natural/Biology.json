@@ -1,0 +1,669 @@
+{
+  "grade": "12",
+  "examType": "entrance",
+  "year": "2015",
+  "stream": "natural",
+  "course": "Biology",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Which one of the following sentences is correcl about the activities of the\nheart?",
+      "choices": {
+        "A": "The noise of heartbeat onc hears through a stethoscope is the sound of valves.",
+        "B": "As the heart beats blood travels through the arteries with a uniform pressure.",
+        "C": "Diastole is when the heart muscles contract and force the blood out. Systole is when the heart muscles relax and it fills with blood.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 2,
+      "text": "During culturing micro-organisms, all of the following activities are\nimportantEXCEPT",
+      "choices": {
+        "A": "tilting the lid of the Petri dish during inoculation.",
+        "B": "adding distilled water to a sterilized agar.",
+        "C": ", . sterilizing,the inoculating loops.",
+        "D": "transferring target micro-organisms into an agar medium."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 3,
+      "text": "Which one of the following diseases can be caused by more than one type of\nmicroorganisms?",
+      "choices": {
+        "A": "Cholera",
+        "B": "(empty)",
+        "C": "Typhoid B, Gastroenteritis",
+        "D": "Tuberculosis"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 4,
+      "text": "Which one of the following diseases is correctly explained with its causes or\nsymptoms?",
+      "choices": {
+        "A": ". Syphilis is caused by Neisseria gonorrhoeae.",
+        "B": "Gonorrhoea has a buming sensation symptom while urinating.",
+        "C": "Gonorrhoea is caused by Treponema pallidum.",
+        "D": "Syphilis has sore ulceration on the genitals as a symptom."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 5,
+      "text": "The names of which two taxa are used in binomial nomenclature?",
+      "choices": {
+        "A": "The two lowest units of classification",
+        "B": "The two middle units of classification",
+        "C": "The highest and the lowest unit of classification",
+        "D": "The two highest units of classification Biology%2015/2023 SUBJECTCODE_06 BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 6,
+      "text": "The sense of animosity between the rival groups was resolved peacefully.",
+      "choices": {
+        "A": "Landslide Eruption",
+        "B": "Concentration Pasteurization",
+        "C": "avoidance conviction",
+        "D": "revenge The practice of tax evasion is harmful to the development of a nation."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 7,
+      "text": "[Question 7 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 8,
+      "text": "Which of the following sentences explains how crossing over brings\nvariation?",
+      "choices": {
+        "A": "In meiosis I, there is splitting up ofpairs ofhomologous chromosomes and line up.",
+        "B": "In meiosis I, there is exchange of a section of DNA between chromatids.",
+        "C": "In meiosis I, homologous chromosomes align themselves independent ofother pairs. In meiosis II, chromatids from each chromosome are separated at random.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 9,
+      "text": "Consider the following model of DNA replication.\nWhich one of the following is true about A, B and C?",
+      "choices": {
+        "A": "AandBareidentical with eachotherbutnotwithC. B/ Cis not identical withA and B.",
+        "B": "(empty)",
+        "C": "B and C are not identical with each other.",
+        "D": "A, Band Careidentical with each other. Biology%2015/2023 SUBJECTCODE_06 BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 10,
+      "text": "What is the central role oftRNA in (ranslation?",
+      "choices": {
+        "A": "(empty)",
+        "B": "theribosomes",
+        "C": "sequence",
+        "D": "Assembling the amino acid into a polypeptide chain"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 11,
+      "text": "biotechnology?Productionof",
+      "choices": {
+        "A": "insulin using transgenic bacteria",
+        "B": "dairy products at household level myco-proteins undera laboratory",
+        "C": "(empty)",
+        "D": "vinegarusing industrial fermenter"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 12,
+      "text": "Consider the following diagram demonstrating the pyramid of energy.",
+      "choices": {
+        "A": "The organisms of each trophic level use large proportion of the energy to build their body.",
+        "B": "The organisms of the first trophic level convert light energy into chemical energy.",
+        "C": "The energy lost as heat to the surrounding in each trophic level is insignificant.",
+        "D": "The amount of energy transferred through the trophic levels drops with each step up of the pyramid. Blology%2015/2023 SUBJECTCODE_06 BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 13,
+      "text": "Which one of the following sentences is corrcet about mitosis? It",
+      "choices": {
+        "A": ". is the division of sex cells resulting in identical daughter cells.",
+        "B": "produces four different daughter cells from a single cell. is lhe division of somatic cells to make identical daughter cells.",
+        "C": "(empty)",
+        "D": "produces half number of chromosomes from the original cell."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 14,
+      "text": "A cross between pea planis having heterozygous genotype (Rr) has been\nmade. Which of the following is correct about the offspring according to the\nMendelian inheritance? The genotypic probability of geting\nRr is 25%.\nRR is 50%.",
+      "choices": {
+        "A": "(empty)",
+        "B": "Rris75%. Iris 25%.",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 15,
+      "text": "Which one of the following is correct about DNA? It is",
+      "choices": {
+        "A": "smaller molecule and coding for only protein. B_ made of phosphate, sugar and bases.",
+        "B": "(empty)",
+        "C": "a single stranded molecule.",
+        "D": "less stable and degrades quickly."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 16,
+      "text": "Which one of the following phyla is characterized by a flexible cartilaginous\nrod-like structure, that runs along the dorsal side of the body?",
+      "choices": {
+        "A": "Phylum Mollusca",
+        "B": "Phylum Chordata",
+        "C": "Phylum Annelida",
+        "D": "Phylum Arthropoda"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 17,
+      "text": "Which one of the following groups of organisms is correctly matched with\nits phylum?",
+      "choices": {
+        "A": "\" Starfish-Phylum Echinodermata",
+        "B": "Fish-Phylum Arthropoda",
+        "C": "Snail -Phylum Annelida",
+        "D": "Earthworm-Phylum Mollusca"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 18,
+      "text": "Which one of the following events happens during carbon cycle? Carbon\ndioxide is",
+      "choices": {
+        "A": "transferred from plants to animals by their feeding relationship.",
+        "B": "absorbed from air when microbes decompose plants and animals.",
+        "C": "removed from the nir by animals during respiration.",
+        "D": "returned into the air by plants during photosynthesis."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 19,
+      "text": "Which one of the following is not the function of the liver?",
+      "choices": {
+        "A": "Amphibia,Reptilia,Aves,Mammalia,andPisces.",
+        "B": "Pisces, Aves, Reptilia, Mammalia, and Amphibia.",
+        "C": "Pisces, Amphibia, Aves, Reptilia, and Mammalia.",
+        "D": "Amphibia, Pisces, Aves, Reptilia, and Mammalia."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 20,
+      "text": "[Question 20 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 21,
+      "text": "Whichofthefllowing plant adaptationmechanisms helps cactus toadapt in\nthe desert environment?",
+      "choices": {
+        "A": "Spreading its seeds in widerareas",
+        "B": "Increasing number of stomata in its leaves Having broad leaves \" D. Storing water in its tissue",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 22,
+      "text": "What is the function of dermis of the skin? It",
+      "choices": {
+        "A": "acts as protection against heat loss.",
+        "B": "protects the entry of pathogens into the body. forms a waterproof around the body tissue.",
+        "C": "(empty)",
+        "D": "contains blood vessels and sweat glands."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 23,
+      "text": "Children who play by spinning round and round fast, when they stop, they\nfeel dizzy. Why?\nThe otoliths round in the same direction with the head.",
+      "choices": {
+        "A": "(empty)",
+        "B": "The optic nerves reports that the children are still moving.",
+        "C": "The fluid in their semicircular canals keeps on moving afer they stop.",
+        "D": "The sensory hairs vibrate highly in response to movement of their body. SUBJECTCODE_06 BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 24,
+      "text": "When does menstruation start in women with no obvious reproductivea\nhealthi problem? lt happens when",
+      "choices": {
+        "A": ". the fertilized ovum reaches the uterus and attaches into the thick, spongy lining.",
+        "B": ". the FSH stimulates the development of a follicle in the ovary and the egg ripens. pregnancyoccurs and the embryo obtains nourishment and oxygen.",
+        "C": "(empty)",
+        "D": "thick spongy lining of the uterus detaches in the absence of pregnancy."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 25,
+      "text": "Which one ofthe following sentences is correctly matched with the function\nofkidneystructures?",
+      "choices": {
+        "A": "/ Bowman's capsule - acts as a filter to produce urine",
+        "B": "Cortex -monitors the osmotic pressure of the blood",
+        "C": "Glomerulus - concentrates urine and conserves water",
+        "D": "Loop of Henle'- involved in ultrafiltration"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 26,
+      "text": "Whichof the following temperature controlling mechanisms in\nhomoiotherms is categorized into behavioral method?",
+      "choices": {
+        "A": "Sweating when the temperature increases",
+        "B": "Constriction of capillaries when the temperature falls Shivering as a result of drop in temperature",
+        "C": "(empty)",
+        "D": ", Seeking shade when the temperature rises"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 27,
+      "text": "Industries in the medicine sector use glucose oxidase in clinistix strips for",
+      "choices": {
+        "A": "restoring blood supplyto area of heart muscle.",
+        "B": "detecting toxic metabolites in the blood.",
+        "C": "easy diagnosis of diabetes by examining a urine sample. reducing the viscosity of mucus.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 28,
+      "text": "In the systematic naming of enzymes,assume an enzyme is designated as\nEC3.4.11.1.Whichof thefollowing correctlydescribes this enzyme?",
+      "choices": {
+        "A": "1l - gives a sub-subclass to which the enzyme belongs.",
+        "B": "/ 1 -a reference of Enzyme Commission.",
+        "C": ". 4-showstowhichmainclasstheenzymebelongs.",
+        "D": "3-indicates a subclass to which the enzyme belongs. Biology%2015/2023 EAESI/ESSLCE SUBJECTCODE_06"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 29,
+      "text": "Which one of the following senfences explains the lock-and-key model of\nenzymc action?The",
+      "choices": {
+        "A": "atached substrate- the enzyme complex cnters into a transition state.",
+        "B": "model explains cnzyme inhibition ina complele manner.",
+        "C": "shapes of the substrate is complementary to the active site.",
+        "D": "change."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 30,
+      "text": "Which one of the following sentences is corrcct about apo-enzymes? They\nare",
+      "choices": {
+        "A": "cofactors that give an enzyme its calalytic activity.",
+        "B": "proteins that combine with cofactors to fom active enzymes.",
+        "C": "organic molecules and many are derived from vitamins.",
+        "D": "inorganic molecules that bind loosely with the cofactors."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 31,
+      "text": "How does a competitive inhibitor affect an cnzyme catalyzed reaction? By\ndenaturing the active site of the enzyime",
+      "choices": {
+        "A": "Palisade mesophyll - the main photosynthetic tissue of the leaf",
+        "B": "Waxy cuticle -controls the entry of carbon dioxide into the leaf Guard cells -have lots of air space and gas exchange area of the leaf",
+        "C": "binding to the allosteric site of the cnzyme",
+        "D": "Spongy mesophyll -helps to prevent water loss from the leaf"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 32,
+      "text": "[Question 32 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 33,
+      "text": "Which one of the following statements correctly describes the movement of\nmaterials in plants?",
+      "choices": {
+        "A": "Passive transport can takes place in the phloem.",
+        "B": "The transport of organic materials is due to transpiration. Water is transported in dead tissue.",
+        "C": "(empty)",
+        "D": "Active transpor can take place in the xylem."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 34,
+      "text": "What will happen if an agriculture extension worker injects gibberellins into\na dwarf plant?The\nAleaves will fall.",
+      "choices": {
+        "A": "Both SA and SB are of monocots.",
+        "B": "SA is ofa monocot, while SB is ofa dicot. Both SA and SB are of dicots.",
+        "C": "roots will elongate.",
+        "D": "SA is of a dicot, while SB is of a monocot."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 35,
+      "text": "[Question 35 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 36,
+      "text": "Which one of the following sentences correctly describes the properties of\nwater? It",
+      "choices": {
+        "A": "contracts when it freezes and ice acts as an insulator.",
+        "B": "takes low energy to change into vapor. allows all light wavelengths to pass through its various depths.",
+        "C": "(empty)",
+        "D": "requires high amount of energy to heat up."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 37,
+      "text": "An organic molecule which is an important part of structure of chromosome\nis\namino acid.",
+      "choices": {
+        "A": "(empty)",
+        "B": "- glycogen.",
+        "C": "amylose.",
+        "D": "triglyceride."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 38,
+      "text": "In animal cells, glycogen is hydrolyzcd quickly to release glucose for\nrespiration.This is due to the presence of several",
+      "choices": {
+        "A": "microfibrils in its side chain.",
+        "B": "Enzyme M' cannot enhance the rate of reaction further if the temperatureexceeds30°C.",
+        "C": "The rate enhancement for enzymes'Z'is less because it didn't use a cofactor.",
+        "D": "As temperature increases the rate of chemical reaction decreases."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 39,
+      "text": "[Question 39 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 40,
+      "text": "This item is based on the following diagram which depicts structural formula\nofabiologicalmolecule.\nThe moleculerepresented by the above structure is",
+      "choices": {
+        "A": ",cellulose.",
+        "B": "amylopectin.",
+        "C": "fatty acid.",
+        "D": "glycerol."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 41,
+      "text": "Which of the following is an Ethiopian endemic plant?",
+      "choices": {
+        "A": "Noug seed",
+        "B": "Avocado Bunna",
+        "C": "Bahir zaf",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 42,
+      "text": "When a biologist shares her research findings with other fellow biologists,\nshe is\nmaking her hypothesis.",
+      "choices": {
+        "A": "drawing her conclusion, reporting her result.",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "analyzing her data. BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 43,
+      "text": "Walia ibex is an endemic animal spccies in Ethiopia which is found in",
+      "choices": {
+        "A": "NechisarNational Park.",
+        "B": "Omo National Park.",
+        "C": "Bale Mountain National Park.",
+        "D": "Simicn Mountain National Park."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 44,
+      "text": "All of the following sentences arc correct about pollution EXCEPT",
+      "choices": {
+        "A": "deforcstation incrcascs the amount of COz absorbed from the atmosphere.",
+        "B": "decomposition of dead bodies incrcases the amount of COz in the atmosphere.",
+        "C": "buming fossil fuels increases pollution due to the release of hydrocarbons.",
+        "D": "buming of wood increases pollution by causing global dimming which blocks sunlight."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 45,
+      "text": "This item is based on the table below which shows a list of molecules.\nNo\nMolecules\nCalciumcarbonate,glucoseandmethane\nCarbondioxide, linoleicacidand water\nLinoleic acid, glucose and methane\nIronIll oxide,glycineandglucose\nIn theabove table, which number holds only organic molecules?",
+      "choices": {
+        "A": "B-3",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 46,
+      "text": "Which of the following enzymes is correctly matched to the food stuffs it\nacts on?",
+      "choices": {
+        "A": "Pepsin-protein",
+        "B": "(empty)",
+        "C": "Amylase-fats B,Maltase-lipids Trypsin-starch",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 47,
+      "text": "Suppose your friend fails suddenly due to heart attack while he is playing\nfootball. The victim needs artificial breathing to keep him alive until medical\nsupport arrives. Which activity is strictly prohibited in this situation?",
+      "choices": {
+        "A": "Remove any obstacle fron the mouth that might block the airway Open the airwaybyremoving any obstacles from the mouth Make sure the airway is open and the head is tilted back",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "Givc mouth-to-mouth resuscitation if he is conscious Blology % 20/5/2023 10 BOOKLETCODE_480"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 48,
+      "text": "Consider the following figure which demonstrates air movcments during\nbreathing using the bell-jar model representing the lung.\nrubber\nBujant\nY'-plece\nballoon\n\"ungs'\nbell-Jar\n\"thorax'\nrubber sheet\nring to pull rubber sheet\n'dlaphragm'\nWhich of the following breathing movements happens when air enters into\nand exitsfromtheballoon lungs?",
+      "choices": {
+        "A": "Air enters when the bell-jar thorax contracts.",
+        "B": "Air enters when the rubber sheet is pushed up. Air exits when Y-piece is rotated both clock wise and counter - clockwise. Air exits when the balloon lungs have higher pressure than the extemal environment.",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 49,
+      "text": "Which one of the following structures of the heart is correctly matched with\nits function?",
+      "choices": {
+        "A": "Right atrium - contracts and forces deoxygenated blood into the lungs",
+        "B": "Leff ventricle -contracts and forces oxygenated blood around the body",
+        "C": "Right ventricle -contracts and forces blood into the left ventricles",
+        "D": "Left atrium -contracts and forces blood into the right ventricles"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 50,
+      "text": "In the aerobic cellularrespiration",
+      "choices": {
+        "A": "Krebs cycle takes place in the cytoplasm.",
+        "B": "glycolysis takes place in the mitochondria.",
+        "C": "- electron transport chain takes place in the cytoplasm.",
+        "D": "pyruvate enters into the mitochondria for further stages. Blology % 2015/2023 SUBJECTCODE_06"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 51,
+      "text": "Consider lhe following diagram showing blood circulation system in the\nhuman body.\nIn the above diagram, the parts indicated by numbers I, 2, 3 and 4, are\nrespectively",
+      "choices": {
+        "A": "aorta, vena cava,pulmonary vein,pulmonary artery. BJ pulmonary artery,pulmonary vein, vena cava, aorta. pulmonary vein,aorta, vena cava, pulmonary artery.",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "vena cava, pulmonary artery, aorta, pulmonary vein."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 52,
+      "text": "Which one of the following descriptions of proteins is correctly matched\nwith its function in acell membrane?",
+      "choices": {
+        "A": "Peripheral protein-anchor integral proteins to the cytoskeleton",
+        "B": "Glycoprotein -reduces the fluidity of the membrane",
+        "C": "Channel proteins -larger molecules can pass through them",
+        "D": "Carrier proteins -specific ions can pass along them"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 53,
+      "text": "Suppose a hypothetical cell of 15% solute concentration is put in a beaker\ncontaining 90% water and 10% solute. In which way will the water move?",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "From the cell to the beaker Both into and out of the cell",
+        "D": "From the beaker to thecell Both into and out of the beaker"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 54,
+      "text": "Which one of the following is an example ofa learned behaviour?\nNest-building\nWeaving a web",
+      "choices": {
+        "A": "Simple diffusion -large particles transported through channel proteins",
+        "B": ". lowerone",
+        "C": "Passive transport -particles require cncrgy in the form of ATP to derive the transport",
+        "D": "Active transport - particles move from low to higher concentration using carrier proteins"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 55,
+      "text": "[Question 55 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "grade": "12",
+  "examType": "entrance",
+  "year": "2015",
+  "stream": "natural",
+  "course": "Mathematics",
+  "questions": [
+    {
+      "number": 1,
+      "text": "125\n=2?",
+      "choices": {
+        "A": "3/2",
+        "B": "(empty)",
+        "C": "(-0, [,0) (-00, -5] ± [-5,]",
+        "D": ". fed (emperalure (in C) of a certair"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 2,
+      "text": "[Question 2 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 3,
+      "text": "The histogram below shows the reco\n19\n17\n22\n15\nThen whiclh one of the following statement is true about the data represented\nby ihe histogram?",
+      "choices": {
+        "A": "25km",
+        "B": "12km",
+        "C": "4km",
+        "D": "5km +3isaiwa"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 4,
+      "text": "[Question 4 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 5,
+      "text": "[Question 5 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 6,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(4) [3]",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 7,
+      "text": "[Question 7 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 8,
+      "text": "f(x)≥ 2 for all x in the domain of f./",
+      "choices": {
+        "A": "(empty)",
+        "B": "The line x = I is the axis of symmetry ofthe graph of f.",
+        "C": "Thegraph of f opens downward.",
+        "D": "The vertex of the graph of fis (3, 1)."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 9,
+      "text": "What is the areca ofa regular hexagon inscribed in a circle of radius 6cm?\n48V3 cm²",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "48cm² 54 V3 cm²",
+        "D": "36V3cm²"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 10,
+      "text": "Which of the following defines a prime numbcr?",
+      "choices": {
+        "A": "It is a number that has more than two positive factors.",
+        "B": "It is a number whose only factor is 1. It is a number that has only two positive factors. It is a number whose only factor is itself. s is written in its standard form?",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 11,
+      "text": "NC.\n0.09 × 105",
+      "choices": {
+        "A": "10.1 × 10~2",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "5 × 105 08 × 102 /125*52x-1_ 253x+1?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 12,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 13,
+      "text": "[Question 13 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 14,
+      "text": "Given A = (x e N: x < 3) and B is the set of all possible factors of 13, Then which\noneofthefollowing is equal to BxA?\n((1, 1), (2, 1), (1, 13), (2, 13)\n.B.\n((1, 1), (1, 2). (13, 1), (13, 2))\n((1. 1), (13, 2))",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "((1, 2), (13, 1), (13, 2) SUBJEGTCODE:02"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 15,
+      "text": "ofheight 8cm is cut off.:\nThus, what is the volume of the solid in cubic centimeters?\n102元",
+      "choices": {
+        "A": "(empty)",
+        "B": "126元",
+        "C": "96元 72元",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 16,
+      "text": "Thedomain of the function f(x)=2x",
+      "choices": {
+        "A": "IRI(0]",
+        "B": "(empty)",
+        "C": "[0, 00] -B. ID. (0, 2)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 17,
+      "text": "The slope of the line that makes an angle of 13siwith the positive\nx-axis is equal to",
+      "choices": {
+        "A": "51m5/4",
+        "B": "(empty)",
+        "C": "-A. 0.19 0.81",
+        "D": "B, 0.81 0.91 ... 19.. Ifsine=- 513"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 18,
+      "text": "[Question 18 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 19,
+      "text": "[Question 19 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 20,
+      "text": "(no stem)",
+      "choices": {
+        "A": "AADQ=ACBP APCD is a trapezium.",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "AQ-PC APCQ is a rhombus."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 21,
+      "text": "A regular pyramid has a hexagonal base whose side length is 12cm. wm\nthe lateral surface area of the pyramid in square centimeters if the length of\neach lateral edge is 10cm?",
+      "choices": {
+        "A": "3,2",
+        "B": "(empty)",
+        "C": "(-1",
+        "D": "(-3 6) -3"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 22,
+      "text": "[Question 22 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 23,
+      "text": "[Question 23 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 24,
+      "text": "hasa truthvalue True?\n(3x)(3y)(x -y=y-x)\n(Vx)(y)(x -y= 5)\n(<X.=+x)A)(XA)",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": ".. (Vx)(3y)(xy <x)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 25,
+      "text": "Jn a cerlain inonth of the year.ihe temperature of a city was recorded and\npresentedasfollows.\nTemprature\n10-14\n20-24\n25-29\n(in °C)\n30-34\nFrequcncy\n(numberofdaps)\nWhich one of the following is thecummulative freqt. ncy of the fourth class?\n22",
+      "choices": {
+        "A": "(empty)",
+        "B": "20",
+        "C": "18",
+        "D": "27"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 26,
+      "text": "E, be the event hat a multiple of5 occurs",
+      "choices": {
+        "A": "ErandE2",
+        "B": "E and E. Ez and E4",
+        "C": ".. Er and E3",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 27,
+      "text": "The following is the distribution ofthe weight of40 students in a certain class.\nWeight\n58-66\n67-75\n40-48\n49-57\n76-84\n(in Kg)\n18\nThen for data given above, whal is the'r\n54.5",
+      "choices": {
+        "A": "(empty)",
+        "B": "55 53.8",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 28,
+      "text": "Agroupofstudents,5fromgrade10,8frc\n11and2fromgrad\nis to be formed. Ifa student is chosen rando..-y from this group, what is\nprobability that the chosen student is either froni grade 10 or grade 12?",
+      "choices": {
+        "A": "(empty)",
+        "B": "15",
+        "C": "12",
+        "D": "BOOKLET CODY:339"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 29,
+      "text": "(y+12 . (x-3)2)\n(2-52_ (9-1,",
+      "choices": {
+        "A": "16 16 (z-3)2 (x-3)2 _ (y-12 _(y-1?",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "25 16 15 25"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 30,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "p(p-g) bv(d-vd) d-v(b=d) (pq)=g",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 31,
+      "text": "Which of the following functions is one to one?-",
+      "choices": {
+        "A": "『= ((1, 5), (2; 3), (5, 4), (6, 5)),",
+        "B": "f: (0, s))-→肥, (x) =[x/-1",
+        "C": "f: P→P, (x)= x2-",
+        "D": "f=I(x, y):y is the motherofx) x3+14"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 32,
+      "text": "then whal are the values of A,\nX+2\nx-1\n(x +2)(x-1)2\n(x-1)\nB and Crespectively?",
+      "choices": {
+        "A": "(empty)",
+        "B": "Its y-intercepl is 3.",
+        "C": "Its x-intercepts arc ±/6. D: The graph is symmetricnl with respect to the origin.",
+        "D": "3, -2, 6"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 33,
+      "text": "[Question 33 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 34,
+      "text": "fhand tis",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "≤2",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 35,
+      "text": "(x+1)’=-12(y + 1)",
+      "choices": {
+        "A": "(y+1)2=12(x-2) (y+1)*=-12(x-2)",
+        "B": "(x-2)=-12(y + 1)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 36,
+      "text": "What is the value of lim",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "13"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 37,
+      "text": "[αx+ forx≥]\nf(x) =\n[x2 =4 for x<1",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": ". -4 Let f(x)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 38,
+      "text": "COS\n+1,Then what is the period and Phase shift of\nthegraphoffrespectively?\n4元\n4元",
+      "choices": {
+        "A": "(empty)",
+        "B": "and",
+        "C": "and 4元",
+        "D": "and What is the fifth term of the sequence"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 39,
+      "text": "+4n",
+      "choices": {
+        "A": "47",
+        "B": "17",
+        "C": "(empty)",
+        "D": "15"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 40,
+      "text": "If the 6th and the Ujth term of an arithmelic sequence are 35 and 75\nrespectively, then what is the sum'ofthe first 3! teims of the sequence?",
+      "choices": {
+        "A": "2145 2635 Wd.",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 41,
+      "text": "[Question 41 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 42,
+      "text": "~ Lel the sequence (at) converges to'3 while [bh) coriverges to -1. Then the\nsequence (an-b.) converges to",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "1-3 -B."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 43,
+      "text": "Which of thefollowing argument-is valid?",
+      "choices": {
+        "A": "(empty)",
+        "B": "p,p=q,r-qpa-r. p=g,-raqtpvr",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 44,
+      "text": "Which of the following asserions is true applying the Principle of\nMathematical lnduction?",
+      "choices": {
+        "A": "0u 10] [-1+=u +\"*+2 +2+1",
+        "B": "n!≥2\"forn≥0",
+        "C": "(empty)",
+        "D": "3+5+7+..+(2n+1)= n² for n≥1 13 Which ofthe following is egual to f3cos3xdx?"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 45,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(empty)",
+        "B": "sin3x+c",
+        "C": "sinx+c",
+        "D": "o+xuis-"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 46,
+      "text": "What is the area of the region bounded by the graph,of f(x)= x? -4 and\nthe x-axis in square units?\n16",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "2-3 32",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 47,
+      "text": "Let f be a continuous function on [0, I] and let F be an anti-'derivative of f\nwith F(1)=-11 and F(0)=11. Then f'r(x) dx is equal to",
+      "choices": {
+        "A": "-22",
+        "B": "-D: 22",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 48,
+      "text": "Which of the following set of equations define the xz-plane?\n((x, y. z) Ix, y. z e R and x-z=0)",
+      "choices": {
+        "A": "(empty)",
+        "B": "((x, y, z) Ix, y, z e R and y=0)",
+        "C": "((x y. z) I x, y, z e P and x=0)",
+        "D": "((x, y, z) [x y, z e R and z=0) SUBECTCODE:02 BO(KIPT'CO0:339"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 49,
+      "text": "(-1. -3. 3) md ( 1, 5, 7)in ppace\n(-1.3.",
+      "choices": {
+        "A": "(-1, 1. -2) (1. 3.3) (1, 4, 3)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 50,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "f(x)= 2sin(2x-"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 51,
+      "text": "[Question 51 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 52,
+      "text": "Let A be a square matrix of order n and let B be a matrix obtained by\nmultiplying one row of A by 2 and C be a inatrix found by adding one row\nFA to another row ofA. ifdel(A)= 10, whal are det(B) and det(C)\nruspectively!",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "((2-2k, 3 -k, k): k eR)",
+        "D": "Z1 -(z2 -z3) = (z1 - Z2) - Z). (Z122) Z3 = ZI (22 Z3)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 53,
+      "text": "[Question 53 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 54,
+      "text": "[Question 54 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 55,
+      "text": "Which of the following complex numbers corresponds to the point (-3, -1) in\nthe Argand plane?",
+      "choices": {
+        "A": "-3+i -[-31",
+        "B": "3+i",
+        "C": "(empty)",
+        "D": "-3-1"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 56,
+      "text": "If a translation T takes a point (-i, 1) to a point (3, 2), then the image of the\ncirclex2+y2-2x+4y+1=0underTis",
+      "choices": {
+        "A": "(x -3)+(y -3)3= 4 (x-5)?+(y+1)*= 4",
+        "B": "(x -2)*+(y +3)* = 4",
+        "C": "(empty)",
+        "D": "x+3)*+(y+3)*= 4"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 57,
+      "text": "Let u= (-1, 6) and v= (2, 4) bc position vcctors. Then the vector 4u-3v is",
+      "choices": {
+        "A": "4cm/sec",
+        "B": "(-10, 11) (-15, 18) 16 : then how fast is the water level rising whien the water reaches 2 cm deep?",
+        "C": "(empty)",
+        "D": "- B. 6cm/scc cm/sec"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 58,
+      "text": "[Question 58 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 59,
+      "text": "Let F be the anti-derivative of f. Then which of the following is NOT true\nabout F and f?",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "JF(x)dx =f(x)+c F'(x)=f(x) .-B.",
+        "D": "[最r(x)dx=f(x)+c"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 60,
+      "text": "Let f(x) =\nthe graphs of f and g have tangent lines of the same slope?",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "-14"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 61,
+      "text": "What is the value of a number in the interval (o, 1) that satisfies the Mean\nValue Theorem for the function f(x)=3x2-Sx+1?\n1-2315",
+      "choices": {
+        "A": "(empty)",
+        "B": "Area under the curve",
+        "C": "Instantaneous rate of change",
+        "D": "Slope oftangent line"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 62,
+      "text": "[Question 62 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 63,
+      "text": "[Question 63 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 64,
+      "text": "[Question 64 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 65,
+      "text": "Which of the following is true about the zero(s) of a function f(x)?",
+      "choices": {
+        "A": "If f(a)=0, then x -a is a factor for f(x).",
+        "B": "If f(a)=0, then (x -a)2 is a factor of f(x). If f(a)=0, then a is not necessarily in the domain.",
+        "C": "(empty)",
+        "D": "If f(a)=0, then y=a is the y-intercept."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    }
+  ]
+}

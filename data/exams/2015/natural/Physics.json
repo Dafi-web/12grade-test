@@ -1,0 +1,669 @@
+{
+  "grade": "12",
+  "examType": "entrance",
+  "year": "2015",
+  "stream": "natural",
+  "course": "Physics",
+  "questions": [
+    {
+      "number": 1,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 2,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 3,
+      "text": "Which one of the following statements is correct about conduction in\nsemiconductors?\nN-type seiniconductor is made from half-flled shell atoms doped with\naccepleratoms.",
+      "choices": {
+        "A": "12.0m",
+        "B": "P-type scmiconductors have holes as minority charge carmiers in the crystal latticeofthc material.",
+        "C": "4.5m 9.0m",
+        "D": "6.0m"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 4,
+      "text": "(no stem)",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 5,
+      "text": "Consider a system of two point masses M, and M2, with M, = 0.5 Mz The\nIwo masses are located on the x-y planc as shown in the figure below.\ny(em\nxcm\nWhich onc of the following altematives indicates the position of center of\nmassofthesystem?",
+      "choices": {
+        "A": "(5,4) cm (.号)cm",
+        "B": "cm",
+        "C": "(empty)",
+        "D": "\" BOOKLETCODE.S273"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 6,
+      "text": "What is the acceleration due to gravity at an altitude twice the radius of the.\nEarth? (S, is Uie gravitational acceleration on the surface of the Earth).",
+      "choices": {
+        "A": "(empty)",
+        "B": "(empty)",
+        "C": "3 8r.",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 7,
+      "text": "Four capacitors are connected in a capacitor nctvork as shown in the figure\nbelow.\n2.μF\n3/7μF\n3/4μF\nThc equivalent capacitance between tcrminals a and b in μF is",
+      "choices": {
+        "A": "3n×10-2 T",
+        "B": "6元×10-2 T",
+        "C": "(empty)",
+        "D": "4元×10 -2 T Phals&2015/2023 EAESIESSLCE"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 8,
+      "text": "[Question 8 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 9,
+      "text": "[Question 9 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 10,
+      "text": "Light ray is allowed to enter from air medium (nal) into water'medium\n(inex of refraction nw=) at an angle of 30' witlh the nomal to air:water:\ninterface (boundary). Which one of the following is correct about the ray-of\nIight?",
+      "choices": {
+        "A": "The sine of thc angle of refraction of the light ray in water is equal to 0.5.",
+        "B": "The sine of the angle of refraction of the light ray in water is equal to 0.38.",
+        "C": "The speed of the light ray in water is I.33 times that of its speed in air.",
+        "D": "The speed of the light ray in water is 0.9 times that ofits speed in air."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 11,
+      "text": "A bullel moving with spced v hits a suspended mass and it imbedded\nin it and thc combination moves with common velocity.\nTwo cars moving in opposite direction bccome at rest after collision.\nWhich of the following statemcnts is correct about these collisions?",
+      "choices": {
+        "A": "Il and IlI are inclastic collisions.",
+        "B": "I and ll arc elastic collisions.",
+        "C": "I, lIl and InT are inelastic collisions.",
+        "D": "I and Ill arc clastic collisions."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 12,
+      "text": "Which one of the following activities of expcriment is NOT necessary to\ndetermine the specific latent heat of vaporization of water?",
+      "choices": {
+        "A": "Measuring temperature",
+        "B": "Measuring yolume",
+        "C": "Measuring tine",
+        "D": "Measuring mass SUBJECTCODE_04"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 13,
+      "text": "Which one of the following statements is corrcct about critical and boiling\npoints ofa substance?",
+      "choices": {
+        "A": "The critical point and the boiling point ofa substance occur at Y samne specifie iemperature and pressure.",
+        "B": "Both critical temperalure ind boiling point ofa substance can t' increased or decreascd based on the pressure of thc surrounding.",
+        "C": "The boiling point of a substance can be differcnt based on the pressure of the surounding whereas critical point occurs al onc specific pressure and temperature.",
+        "D": "The critical temperature ofa subsiance can be increased or dccreased bascd on the pressure of the surrounding whercas boiling point does not vary with the pressure of the surrounding."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 14,
+      "text": "A30kg rigid objcct hasa moment ofincria 45 kg m about its centeiof\nmass.What is the objcct's moment of inertia when it rotates through an axis.\n2 m a way and parallel to the axis through its ccnler of mass?\n90 kgm",
+      "choices": {
+        "A": "180 kgm² 165 kgm²",
+        "B": "105kgm²",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 15,
+      "text": "Two coplanar forces acts on a unifom beam ns shown in the figu\nlow.\nFi =,30 N\nF2 =30 N\n0.80m\nThe moment of force on the bcam is",
+      "choices": {
+        "A": "48.0 Nm.",
+        "B": "12.0 Nm.",
+        "C": "30.0Nm.",
+        "D": "24.0 Nm. SUBJECTCODE_04"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 16,
+      "text": "Water flows al the rale of 500.0 cm'/s at small cross-section 5 cm2. The*\nlarger cross-section is 25 cm2. What is the ratio of the speed of the water at\nA; to A2.",
+      "choices": {
+        "A": "(empty)",
+        "B": "20 100",
+        "C": "0.2",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 17,
+      "text": "An ideal monoatomic gas expands adiabatically from an initial volume of2\nliters at a temperature of 300 K to 16 liters of volume. What is the final\ntemperalure of the gas? (Use the ratio of specific heat capacity at constant\nprcssure to thal at constant volume tobe5/3.)",
+      "choices": {
+        "A": "The projection of thc particle on QR swings between points Q and R with constant speed.",
+        "B": "The circular motion of the particle can be taken as a simple harmonic motion.",
+        "C": "The projection of the particle on QR demonstrates simple hamonic motion.",
+        "D": "The projection of the particle on QR demonstrates motion with constantacceleration."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 18,
+      "text": "[Question 18 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 19,
+      "text": "Air molecules vibrate in il pipc of length L closed at onc cnd but open at the\nQther. Ir he speed of sound throughi the pipe is V. Wlich one of the\nfollowing statements is corrcet about the resonance cffects of vibration of air\nmolecules in thepipe?",
+      "choices": {
+        "A": "constnuctive interference ifp=(n+1/2)入.",
+        "B": "constructive interference if p- n^ destructive interferencc if p=2 n入",
+        "C": "(empty)",
+        "D": "destructive interference ifp=0"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 20,
+      "text": "[Question 20 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 21,
+      "text": "Suppose you arc standing on a horizontal Hoor, in a room, with one of your\nfect and leaning lhe wall of the room with the other foot. The number of\nactionrcaction pairof forces youexpericncc is",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 22,
+      "text": "The anount of heat energy required to changc a substance from a lid\ngascous state is known as",
+      "choices": {
+        "A": "specific heat capacity.",
+        "B": "quantity of heat.",
+        "C": "latent heat of fusion.",
+        "D": "latent heat of vaporization."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 23,
+      "text": "Which one of the following is corrcct about mechanical waves?",
+      "choices": {
+        "A": "The maximum height in a transverse wave is known as the trough of the wave.",
+        "B": "The time taken for one complete wave to pass a given'point is called the frequency of the wave.",
+        "C": "The distance belween two identical points on adjacent waves is known as the wavelength of the wave.",
+        "D": "The number of complete waves that passes a given point per time is called the period ofthe wave. 10 SUBJECTCODE_04 BOOKLETCODE_527\""
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 24,
+      "text": "A boy in a joumey covers his route by travelling 3.0 km.east and 4.0 km\north. Whal is the magnitude of his resultant displacement?\n5.0 km",
+      "choices": {
+        "A": "The displacement during the time interval from t =6 s lo t= 14 s is equal to thic area of region II minus the area of region ll.",
+        "B": "The displacement during the time intcrvals (= 0 to t = 6 s is equal to the area under the velocity-timc graph in the given interval. c. The acceleration during the lime interval from t = 6 s lo t = 10 s is equal lo thc gradient of the curve in thc given intcrval an negative.",
+        "C": "7.0km",
+        "D": "The acccleration in the first 6 s is equal to the gradient of the d the given interval and it is positive. SUBJECTCODE_04 '"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 25,
+      "text": "[Question 25 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 26,
+      "text": "A car of mass 1.50 × 10' kg collides with a wall and rebounds. The initial\nand final velocities of the car are v; =.-15.0 m's and Vr  2.60 m/s,\nrespectively.If the collision lasts for 0.15 s, what is the magnitude of the\naveragc force cxerted on the car?",
+      "choices": {
+        "A": "2.60x10°N 2.64 x 10° N 3.96x10°N ..76 x 10'N",
+        "B": "(empty)",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 27,
+      "text": "Starting from rest, a block of mass 5.0 kg slides 2.5 m down a rough 370\nincline. The coefficicnt of kinetic friction between the block and the incline\nis μ=0.44. What is the work done by the friction forcc on block?",
+      "choices": {
+        "A": "-75.00 J -44.00J",
+        "B": "-18.92J",
+        "C": "(empty)",
+        "D": "-59.00 J"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 28,
+      "text": "An inclined plane is 20 m long and is inclined at an angle of 15? to the\nhorizontal. If the effort required to push a block of weight 3,0oo N up the\nslope is 900 N, what is the efficiency of' the inclined plane?",
+      "choices": {
+        "A": "100 %",
+        "B": "86.7% 30.0%",
+        "C": "25.9%",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 29,
+      "text": "A wooden block of volume 5.00 x 10' m’ floats partially submerged in\nwater, and a small steel objcct of mass m is placed on top of the block.\nWlen m =- 0.25 kg, the system is in cquilibrium and the top of the wooderi\nblock is at the level of the water. What is the density of the wood?",
+      "choices": {
+        "A": "When the lemperature decreases, the brass section of the bimetallic strip contracts slowly than (hie iron and the strip bends towards the brass section.",
+        "B": "When the temperature incrcases, the iron section of the bimetallic strip expands faster than the brass and the strip bends towards the brass section. When the tempcrature increascs, tlhe brass section of the bimetallic strip expands faster than the iron and the strip bends towards the iron section.",
+        "C": "(empty)",
+        "D": "When the temperature dccreases, the iron section of the bimetallic strip contracts faster than the brass and thc strip bends towards the iron scction."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 30,
+      "text": "[Question 30 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 31,
+      "text": "Which one of the following statements does NOT describe coherent light or\ninterferenceofcoherent light?",
+      "choices": {
+        "A": "Two waves which imaintain constant phasc relationship can produce sustained intcrference.",
+        "B": "Suslainable interference paltern can be fornied by two waves with variable phase difference. In order for two waves to bc coherent, thcy niust be the samc type of wave.",
+        "C": "(empty)",
+        "D": "Coherent light waves have the sane frequcncy and wavelength"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 32,
+      "text": "Kirchhoffs junction rule is a conscqucnce of conscrvation of",
+      "choices": {
+        "A": "Whcn radiation of certain frequcncy f, interact with aloms of a material, clectrons will beemitted with energies proportional to the radiation energy.",
+        "B": "Anyvalue ofenergy of photons (radiations)is capable of producing photoelectrons from a metal.",
+        "C": "In photoclectric cffect,the photoelectron energy isdirectly proportional to the wavclength of incident radiation.",
+        "D": "The intensity of radiation incident on a material can affect the energy of pholoelectrons cmillcd from the metal surface."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 33,
+      "text": "[Question 33 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 34,
+      "text": "A positive point charge of 2μC is placed on the x-axis at the origin and a\npositive charge of6 μC and a negative point charge of-4 μC are placed,\nrespectively at x=-3cm and x=+3cm on the x-axis.What is thc net electric\nforce on the 2 μC charge?",
+      "choices": {
+        "A": "200 N toward the negative x-axis",
+        "B": "200Ntoward thepositivex-axis",
+        "C": "40Ntoward thepositivex-axis",
+        "D": "40 N toward the negative x-axis ‘SUBJECTCODB_04 BOOKLETCODE_527"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 35,
+      "text": "Consider a point charge Q in an electrostetic field and a point mass m in a\ngravitational feld. Which one ofthe following statements is correct about\nthepotential energy of theobjects?",
+      "choices": {
+        "A": "The electric potentinl decreascs as n positive cliarge moves opposite to the electric field while the gravitational potcntial of thie mass increases when it moves along the gravitational field. The potential energy of the point charge and that of the point inass changes as they move over equipotcntial surfaces in their respcctive fields.",
+        "B": "(empty)",
+        "C": "The potential energies at distance r, from the ficld sourccs for both Q andmvary inverselywith r.",
+        "D": "The gravitational force on mass m is in the same dircction of gravitational field while clcctric force on Q in the same or opposite directions of electric ficld depending the sign of the cliarge."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 36,
+      "text": "Four resistors are connected to a voltage source as shown in the circuit\ndiagram shown below\n14\n62\n42\nWhat are the current trough the 3 Q resistor and the voltage drop across the?\n42,resistor,respectively?",
+      "choices": {
+        "A": "(empty)",
+        "B": "2A and 2V",
+        "C": "Aand8V",
+        "D": "Aand 8V 15 :"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 37,
+      "text": "An electron moving with a speed of2.2x10'm/s east cnters in the region of\nmagnetic field strength of 5xlo-T directed north.What is the magnetic\nforce cxperienced by the electron?",
+      "choices": {
+        "A": "1.76x 10\"S N, perpendicular 10 nonh and east directions",
+        "B": "8x10-'s N, perpendicular to north and east directions. 3.64x10-\" N, towards east direction",
+        "C": "(empty)",
+        "D": "1.76x10-15N towards north direction"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 38,
+      "text": "A magnetic field intensity of4xl0- T crosses a coil having facc urea 100\ncm' and 5x10' tums perpendicular to the face of the coil. If the magnetic\nlux in the coil set to zcro within 2 ms. Whal is the magnitude of the induced\ncmf in the coil?",
+      "choices": {
+        "A": "4x10-V c. 10 V",
+        "B": "100 V",
+        "C": "(empty)",
+        "D": "2x10'5 v"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 39,
+      "text": "In a simple a.c circuit, an inductor of 4μH and a capacitor of9 pF are\nconnected in series lo each othcr and the combination is connected to an a.c\nsource. Whal is the angular frequcncy at resonancc of the circuit?",
+      "choices": {
+        "A": "3.6 x107 rad/s",
+        "B": "2.7x105 rad/s 1.67 x10* rad/s",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 40,
+      "text": "Electrons in a Sodium atom emit radiation when they move from a higher\nenergy level of-0.8leV to a lower cnergy level of-2.2leV.Whal is the\nfrequency ofradiation emitted in the process?",
+      "choices": {
+        "A": "3.38 ×10l Hz 8.10×1015 Hz 1.40×1015 Hz",
+        "B": "2.21×1014 Hz 10 BOOKLETCODE_527",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 41,
+      "text": "Which one ofthe following statements is NOT correctabout power ofa\nlens?",
+      "choices": {
+        "A": "The power of a lens decrcases as the focal length of the lens increases.",
+        "B": "The larger the focal length of the lens the greater is the power of the Icns.",
+        "C": "The power of a lens is the measure of the slrength of the lens.",
+        "D": "Optician gives thc name dioptcrs for the unit of power of a lens."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 42,
+      "text": "Which one of the following groups of physical quantities contains only\nvectors?",
+      "choices": {
+        "A": "Work,Electric ficld, Displaccnent and Force",
+        "B": "Acceleration,Speed,Forcc and Electric field",
+        "C": "Momentun, Energy, Magnetic field and Force",
+        "D": "Displacement,Velocity,Magnctic field and Momcntum"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 43,
+      "text": "Which rule about the number of significant figures is correct? Zeros in the\nnumber",
+      "choices": {
+        "A": "450.0 are significant figures.",
+        "B": "0.0023 arc significant figures.",
+        "C": "I.Jo0 are not significant figures.",
+        "D": "2.70018 are nol significant figures."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 44,
+      "text": "Given two vectors Vj= 10 units along the positive y-axis and v2 =6 units at\nan angle of37 above thc positive x-axis.What is the scalar product of the\nVectors in square of units?",
+      "choices": {
+        "A": "45",
+        "B": "36",
+        "C": "48",
+        "D": "60 17 SUBJECTCODE_04 BOOKLETCODE_527"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 45,
+      "text": "An aiplane fakcs-off at aiport A and travels 500 km due east within onc\nhour and then tuming to south it flies for20 minutes to land on airport B\nwhich is lo0 km away from the tuming point. The magnitude average\nvelocity of the plane during its light bctwecn the two airports is",
+      "choices": {
+        "A": "75 V24 km/h.",
+        "B": "100V34km/h.",
+        "C": "450km/h.",
+        "D": "75v26km/h."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 46,
+      "text": "A bullet is fircd with an initial specd v al an angle O with the horizontal. It\ntakes a timc T to reach its maximum vertical displacement hinax. It hits the\ntargel point a distance R uway and exactly in the lorizontal level to the point\nwhere it was fired.Which one ofthe following statement is NOT correct\nabout the motion of the bullet?",
+      "choices": {
+        "A": "The bullet hits the target at a time 2T afer it was fired.",
+        "B": "hnax is dircctly proportional to the initial spced v.",
+        "C": "Rwill be maximumif cos=V2/2.",
+        "D": "O should be different from 9o' to hit the target al a distance R."
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 47,
+      "text": "A man pushes a 25.0 kg objcct by 250 N forcc along an inclined planc\ninclined at an angle of 37to the horizontal.Ifthe object nioves with\nconstant spced, the friction force exerts on the block is",
+      "choices": {
+        "A": ". 250.0 N, up the inclincd plane.",
+        "B": "100.0 N, up the inclined planc.",
+        "C": "100.0N, down the inclined plane.",
+        "D": "250.0 N, down the inclincd plane. 18 SUBJECTCODE_04 BOOKLETCODE_527"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 48,
+      "text": "The following three collisions occur in different systcms.\nA billiard ball A collides with an identical ball B and cones to rest\nafer collision, while ball B moves with the same velocity as ball A\nwas muving before.",
+      "choices": {
+        "A": "(see scan — choices not parsed)",
+        "B": "(see scan — choices not parsed)",
+        "C": "(see scan — choices not parsed)",
+        "D": "(see scan — choices not parsed)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 49,
+      "text": "An objcct of mass M is attached to a spring of spring constant K, as shown\nin the figure bclow.\nIf the mass is pulled to a point P, which is at distancc A from equilibrium\nposition O, and released, Which one of the following statements is corrcct\naboul encrgy of thc syslem? (assunme thc surfacc is frictionless)",
+      "choices": {
+        "A": "At point O, the system has both kinetic and potential energy.",
+        "B": "At point P, ue systcin has both kinetic cnergy and potential energy. At point P, the mass attain its maximum velocity.",
+        "C": "(empty)",
+        "D": "At point Q the system has bothi kinetic energy and potential energy. 19 SUBJECTCODE_04 BOOKLETCODE_S27"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 50,
+      "text": "displacement orr = 4im. What is the torque due to the force in N.m?\n4i+12j",
+      "choices": {
+        "A": ". c. 12j ton -12j",
+        "B": "12 k Fho&nd",
+        "C": "(empty)",
+        "D": "(empty)"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 51,
+      "text": "[Question 51 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 52,
+      "text": "[Question 52 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 53,
+      "text": "[Question 53 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 54,
+      "text": "[Question 54 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    },
+    {
+      "number": 55,
+      "text": "[Question 55 — stem not captured cleanly by OCR; open the original PDF and type this item in admin.]",
+      "choices": {
+        "A": "—",
+        "B": "—",
+        "C": "—",
+        "D": "—"
+      },
+      "correct": "A",
+      "solution": "Official answer not verified in this import. Confirm with NEAEA key; replace after verification."
+    }
+  ]
+}
