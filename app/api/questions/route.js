@@ -1,47 +1,55 @@
 import { NextResponse } from 'next/server';
 import dbConnect from '../../../lib/mongooseConnect.js';
+import { loadAllQuestionsFromDisk } from '../../../lib/examJsonFallback.js';
 import { createRequire } from 'module';
 
 const require = createRequire(import.meta.url);
 const Exam = require('../../../models/Exam.js');
 
 export async function GET() {
-  try {
-    await dbConnect();
-    const exams = await Exam.find({});
-    const questions = [];
+  const fromDisk = loadAllQuestionsFromDisk();
 
-    exams.forEach((exam) => {
-      exam.questions.forEach((q, i) => {
-        questions.push({
-          id: q._id,
-          examId: exam._id,
-          examType: exam.examType,
-          year: exam.year,
-          stream: exam.stream,
-          course: exam.course,
-          number: typeof q.number === 'number' ? q.number : i + 1,
-          text: q.text,
-          choices: q.choices,
-          correct: q.correct,
-          solution: q.solution,
+  try {
+    if (process.env.MONGODB_URI) {
+      await dbConnect();
+      const exams = await Exam.find({});
+      const questions = [];
+
+      exams.forEach((exam) => {
+        exam.questions.forEach((q, i) => {
+          questions.push({
+            id: q._id,
+            examId: exam._id,
+            examType: exam.examType,
+            year: exam.year,
+            stream: exam.stream,
+            course: exam.course,
+            number: typeof q.number === 'number' ? q.number : i + 1,
+            text: q.text,
+            choices: q.choices,
+            correct: q.correct,
+            solution: q.solution,
+          });
         });
       });
-    });
 
-    // Stable sort: by exam meta then question number
-    questions.sort((a, b) => {
-      const ak = `${a.examType}|${a.year}|${a.stream}|${a.course}`;
-      const bk = `${b.examType}|${b.year}|${b.stream}|${b.course}`;
-      if (ak < bk) return -1;
-      if (ak > bk) return 1;
-      return (a.number || 0) - (b.number || 0);
-    });
+      questions.sort((a, b) => {
+        const ak = `${a.examType}|${a.year}|${a.stream}|${a.course}`;
+        const bk = `${b.examType}|${b.year}|${b.stream}|${b.course}`;
+        if (ak < bk) return -1;
+        if (ak > bk) return 1;
+        return (a.number || 0) - (b.number || 0);
+      });
 
-    return NextResponse.json(questions);
-  } catch (err) {
-    return NextResponse.json({ error: err.message || 'Server error' }, { status: 500 });
+      if (questions.length > 0) {
+        return NextResponse.json(questions);
+      }
+    }
+  } catch {
+    // fall through to disk-only list
   }
+
+  return NextResponse.json(fromDisk);
 }
 
 export async function POST(req) {
